@@ -1,0 +1,1 @@
+2019-02-24 22:16:12,609 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:145] - INFO: Test mean MSE: 282.85205078125, Test mean PCC: nan, Test mean MAE: 3.329921007156372, total Duration: 1496s

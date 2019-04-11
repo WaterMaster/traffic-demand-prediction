@@ -1,0 +1,246 @@
+2019-01-26 11:19:52,120 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 0: Batch MSE= 5025.665039, Duration= 4s
+2019-01-26 11:21:39,834 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 10: Batch MSE= 3320.120850, Duration= 2s
+2019-01-26 11:23:23,433 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 20: Batch MSE= 855.116699, Duration= 2s
+2019-01-26 11:25:05,980 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 30: Batch MSE= 1271.351807, Duration= 2s
+2019-01-26 11:26:48,312 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 40: Batch MSE= 2095.088867, Duration= 2s
+2019-01-26 11:28:29,703 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 50: Batch MSE= 1512.850830, Duration= 2s
+2019-01-26 11:30:13,355 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 60: Batch MSE= 2548.735107, Duration= 2s
+2019-01-26 11:31:55,856 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 70: Batch MSE= 2173.449219, Duration= 2s
+2019-01-26 11:33:37,373 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 80: Batch MSE= 2156.352295, Duration= 2s
+2019-01-26 11:35:19,441 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 90: Batch MSE= 1351.908081, Duration= 2s
+2019-01-26 11:37:01,836 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 100: Batch MSE= 1446.614136, Duration= 2s
+2019-01-26 11:38:38,516 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 110: Batch MSE= 383.235657, Duration= 2s
+2019-01-26 11:40:15,219 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 120: Batch MSE= 514.927917, Duration= 2s
+2019-01-26 11:41:51,791 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 130: Batch MSE= 689.224670, Duration= 2s
+2019-01-26 11:43:28,276 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 140: Batch MSE= 570.898560, Duration= 2s
+2019-01-26 11:45:01,955 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 150: Batch MSE= 774.362305, Duration= 2s
+2019-01-26 11:46:36,717 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 160: Batch MSE= 924.112244, Duration= 2s
+2019-01-26 11:48:11,171 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 170: Batch MSE= 1382.267822, Duration= 2s
+2019-01-26 11:49:47,169 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 180: Batch MSE= 536.045227, Duration= 2s
+2019-01-26 11:51:22,157 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 190: Batch MSE= 778.158875, Duration= 2s
+2019-01-26 11:52:53,579 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 200: Batch MSE= 561.336731, Duration= 2s
+2019-01-26 11:54:25,991 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 210: Batch MSE= 255.862564, Duration= 2s
+2019-01-26 11:55:57,623 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 220: Batch MSE= 405.896271, Duration= 2s
+2019-01-26 11:57:30,182 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 230: Batch MSE= 587.361511, Duration= 2s
+2019-01-26 11:59:01,386 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 240: Batch MSE= 446.047485, Duration= 2s
+2019-01-26 12:00:32,722 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 250: Batch MSE= 588.114746, Duration= 2s
+2019-01-26 12:02:03,841 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 260: Batch MSE= 320.681976, Duration= 2s
+2019-01-26 12:03:34,435 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 270: Batch MSE= 895.317627, Duration= 2s
+2019-01-26 12:05:07,484 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 280: Batch MSE= 378.740265, Duration= 2s
+2019-01-26 12:06:43,793 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 290: Batch MSE= 161.750122, Duration= 2s
+2019-01-26 12:08:21,334 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 300: Batch MSE= 589.982483, Duration= 2s
+2019-01-26 12:09:56,885 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 310: Batch MSE= 800.788513, Duration= 2s
+2019-01-26 12:11:33,260 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 320: Batch MSE= 469.023071, Duration= 2s
+2019-01-26 12:13:09,224 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 330: Batch MSE= 334.073517, Duration= 2s
+2019-01-26 12:14:47,003 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 340: Batch MSE= 688.856201, Duration= 2s
+2019-01-26 12:16:25,005 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 350: Batch MSE= 81.964653, Duration= 2s
+2019-01-26 12:18:01,974 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 360: Batch MSE= 309.799713, Duration= 2s
+2019-01-26 12:19:38,303 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 370: Batch MSE= 506.578186, Duration= 2s
+2019-01-26 12:21:15,111 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 380: Batch MSE= 830.756226, Duration= 2s
+2019-01-26 12:22:52,696 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 390: Batch MSE= 340.582825, Duration= 2s
+2019-01-26 12:24:30,724 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 400: Batch MSE= 233.989929, Duration= 2s
+2019-01-26 12:26:07,387 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 410: Batch MSE= 291.731842, Duration= 2s
+2019-01-26 12:27:45,743 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 420: Batch MSE= 190.339676, Duration= 2s
+2019-01-26 12:29:22,630 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 430: Batch MSE= 267.904968, Duration= 2s
+2019-01-26 12:31:00,841 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 440: Batch MSE= 157.202225, Duration= 2s
+2019-01-26 12:32:37,361 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 450: Batch MSE= 417.422699, Duration= 2s
+2019-01-26 12:34:14,954 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 460: Batch MSE= 309.378845, Duration= 2s
+2019-01-26 12:35:49,914 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 470: Batch MSE= 425.130920, Duration= 2s
+2019-01-26 12:37:11,237 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:106] - INFO: Epoch 1: mean MSE: 813.672302, total Duration: 4651s
+2019-01-26 12:37:19,865 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 0: MSE: [215.45012], Duration: 2s
+2019-01-26 12:38:51,253 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 10: MSE: [342.8194], Duration: 1s
+2019-01-26 12:40:23,601 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 20: MSE: [637.58136], Duration: 2s
+2019-01-26 12:41:56,116 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 30: MSE: [626.7632], Duration: 2s
+2019-01-26 12:43:27,640 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 40: MSE: [322.28723], Duration: 1s
+2019-01-26 12:44:59,702 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 50: MSE: [114.640236], Duration: 1s
+2019-01-26 12:46:30,134 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 60: MSE: [87.34084], Duration: 2s
+2019-01-26 12:48:01,677 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 70: MSE: [254.49094], Duration: 2s
+2019-01-26 12:49:31,675 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 80: MSE: [375.97952], Duration: 1s
+2019-01-26 12:51:03,452 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 90: MSE: [705.55304], Duration: 1s
+2019-01-26 12:52:34,857 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 100: MSE: [390.0996], Duration: 2s
+2019-01-26 12:54:05,464 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 110: MSE: [286.40594], Duration: 1s
+2019-01-26 12:55:37,470 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 120: MSE: [284.04047], Duration: 1s
+2019-01-26 12:57:09,073 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 130: MSE: [167.74934], Duration: 1s
+2019-01-26 12:58:40,521 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 140: MSE: [350.75757], Duration: 2s
+2019-01-26 13:00:10,610 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 150: MSE: [514.3693], Duration: 2s
+2019-01-26 13:01:28,391 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:121] - INFO: Validation mean MSE: 346.99395751953125, total Duration: 1457s
+2019-01-26 13:01:40,723 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 0: Batch MSE= 246.450775, Duration= 2s
+2019-01-26 13:03:18,050 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 10: Batch MSE= 341.476685, Duration= 2s
+2019-01-26 13:04:52,987 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 20: Batch MSE= 497.627502, Duration= 2s
+2019-01-26 13:06:30,346 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 30: Batch MSE= 378.333679, Duration= 2s
+2019-01-26 13:08:07,301 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 40: Batch MSE= 628.444946, Duration= 2s
+2019-01-26 13:09:42,753 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 50: Batch MSE= 448.735016, Duration= 2s
+2019-01-26 13:11:20,151 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 60: Batch MSE= 232.777786, Duration= 2s
+2019-01-26 13:12:55,546 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 70: Batch MSE= 735.733215, Duration= 2s
+2019-01-26 13:14:31,907 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 80: Batch MSE= 415.736084, Duration= 2s
+2019-01-26 13:16:07,642 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 90: Batch MSE= 194.865143, Duration= 2s
+2019-01-26 13:17:43,754 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 100: Batch MSE= 440.595337, Duration= 2s
+2019-01-26 13:19:19,940 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 110: Batch MSE= 150.352585, Duration= 2s
+2019-01-26 13:20:57,161 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 120: Batch MSE= 248.725800, Duration= 2s
+2019-01-26 13:22:34,347 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 130: Batch MSE= 367.949158, Duration= 2s
+2019-01-26 13:24:11,442 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 140: Batch MSE= 320.032227, Duration= 2s
+2019-01-26 13:25:48,382 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 150: Batch MSE= 103.385818, Duration= 2s
+2019-01-26 13:27:23,494 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 160: Batch MSE= 364.018127, Duration= 2s
+2019-01-26 13:28:58,950 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 170: Batch MSE= 622.670593, Duration= 2s
+2019-01-26 13:30:34,891 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 180: Batch MSE= 571.773804, Duration= 2s
+2019-01-26 13:32:09,673 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 190: Batch MSE= 438.320465, Duration= 2s
+2019-01-26 13:33:45,018 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 200: Batch MSE= 234.897568, Duration= 2s
+2019-01-26 13:35:21,066 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 210: Batch MSE= 460.198242, Duration= 2s
+2019-01-26 13:36:56,438 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 220: Batch MSE= 482.670471, Duration= 2s
+2019-01-26 13:38:32,593 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 230: Batch MSE= 442.305695, Duration= 2s
+2019-01-26 13:40:10,200 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 240: Batch MSE= 418.941681, Duration= 2s
+2019-01-26 13:41:46,794 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 250: Batch MSE= 451.772430, Duration= 2s
+2019-01-26 13:43:22,787 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 260: Batch MSE= 106.624962, Duration= 2s
+2019-01-26 13:44:57,475 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 270: Batch MSE= 243.546432, Duration= 2s
+2019-01-26 13:46:33,572 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 280: Batch MSE= 203.992096, Duration= 2s
+2019-01-26 13:48:10,512 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 290: Batch MSE= 200.670029, Duration= 2s
+2019-01-26 13:49:46,048 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 300: Batch MSE= 327.422394, Duration= 2s
+2019-01-26 13:51:22,924 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 310: Batch MSE= 261.054840, Duration= 2s
+2019-01-26 13:52:58,975 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 320: Batch MSE= 343.128021, Duration= 2s
+2019-01-26 13:54:34,442 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 330: Batch MSE= 426.643372, Duration= 2s
+2019-01-26 13:56:11,782 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 340: Batch MSE= 309.371613, Duration= 2s
+2019-01-26 13:57:47,949 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 350: Batch MSE= 348.346436, Duration= 2s
+2019-01-26 13:59:25,250 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 360: Batch MSE= 288.691956, Duration= 2s
+2019-01-26 14:01:02,565 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 370: Batch MSE= 867.560242, Duration= 2s
+2019-01-26 14:02:38,720 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 380: Batch MSE= 412.337708, Duration= 2s
+2019-01-26 14:04:14,481 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 390: Batch MSE= 411.842194, Duration= 2s
+2019-01-26 14:05:50,331 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 400: Batch MSE= 403.086212, Duration= 2s
+2019-01-26 14:07:27,215 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 410: Batch MSE= 259.823944, Duration= 2s
+2019-01-26 14:09:03,486 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 420: Batch MSE= 420.432556, Duration= 2s
+2019-01-26 14:10:40,264 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 430: Batch MSE= 425.484619, Duration= 2s
+2019-01-26 14:12:15,306 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 440: Batch MSE= 911.612244, Duration= 2s
+2019-01-26 14:13:50,899 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 450: Batch MSE= 584.993164, Duration= 2s
+2019-01-26 14:15:26,592 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 460: Batch MSE= 69.065689, Duration= 2s
+2019-01-26 14:17:02,581 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 2, Iter 470: Batch MSE= 429.710663, Duration= 2s
+2019-01-26 14:18:22,504 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:106] - INFO: Epoch 2: mean MSE: 369.430267, total Duration: 4610s
+2019-01-26 14:18:30,493 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 0: MSE: [322.46976], Duration: 1s
+2019-01-26 14:20:01,178 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 10: MSE: [402.38644], Duration: 2s
+2019-01-26 14:21:31,346 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 20: MSE: [83.96875], Duration: 2s
+2019-01-26 14:23:01,909 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 30: MSE: [293.49835], Duration: 1s
+2019-01-26 14:24:31,848 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 40: MSE: [159.60495], Duration: 1s
+2019-01-26 14:26:02,415 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 50: MSE: [406.73767], Duration: 2s
+2019-01-26 14:27:31,640 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 60: MSE: [574.6444], Duration: 1s
+2019-01-26 14:29:01,805 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 70: MSE: [118.64992], Duration: 1s
+2019-01-26 14:30:31,604 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 80: MSE: [473.79166], Duration: 1s
+2019-01-26 14:32:01,608 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 90: MSE: [472.56622], Duration: 1s
+2019-01-26 14:33:31,312 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 100: MSE: [433.8687], Duration: 2s
+2019-01-26 14:35:00,841 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 110: MSE: [161.86206], Duration: 1s
+2019-01-26 14:36:30,924 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 120: MSE: [228.82509], Duration: 1s
+2019-01-26 14:38:01,347 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 130: MSE: [179.13702], Duration: 2s
+2019-01-26 14:39:33,577 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 140: MSE: [265.9936], Duration: 2s
+2019-01-26 14:41:05,957 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 150: MSE: [307.96713], Duration: 1s
+2019-01-26 14:42:23,347 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:121] - INFO: Validation mean MSE: 316.13055419921875, total Duration: 1440s
+2019-01-26 14:42:35,485 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 0: Batch MSE= 346.819031, Duration= 2s
+2019-01-26 14:44:12,096 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 10: Batch MSE= 191.414810, Duration= 2s
+2019-01-26 14:45:48,166 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 20: Batch MSE= 436.806213, Duration= 2s
+2019-01-26 14:47:23,881 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 30: Batch MSE= 352.224579, Duration= 2s
+2019-01-26 14:49:00,749 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 40: Batch MSE= 278.873291, Duration= 2s
+2019-01-26 14:50:36,653 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 50: Batch MSE= 353.672729, Duration= 2s
+2019-01-26 14:52:12,130 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 60: Batch MSE= 294.083466, Duration= 2s
+2019-01-26 14:53:48,626 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 70: Batch MSE= 207.617035, Duration= 2s
+2019-01-26 14:55:24,422 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 80: Batch MSE= 298.311066, Duration= 2s
+2019-01-26 14:57:00,436 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 90: Batch MSE= 356.815094, Duration= 2s
+2019-01-26 14:58:35,421 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 100: Batch MSE= 259.121216, Duration= 2s
+2019-01-26 15:00:12,852 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 110: Batch MSE= 292.384949, Duration= 2s
+2019-01-26 15:01:48,480 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 120: Batch MSE= 258.963776, Duration= 2s
+2019-01-26 15:03:25,930 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 130: Batch MSE= 540.021301, Duration= 2s
+2019-01-26 15:05:00,003 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 140: Batch MSE= 377.760406, Duration= 2s
+2019-01-26 15:06:35,392 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 150: Batch MSE= 328.196564, Duration= 2s
+2019-01-26 15:08:12,297 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 160: Batch MSE= 22.237894, Duration= 2s
+2019-01-26 15:09:49,371 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 170: Batch MSE= 328.844391, Duration= 2s
+2019-01-26 15:11:25,514 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 180: Batch MSE= 227.850708, Duration= 2s
+2019-01-26 15:13:02,783 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 190: Batch MSE= 153.067413, Duration= 2s
+2019-01-26 15:14:39,812 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 200: Batch MSE= 350.678741, Duration= 2s
+2019-01-26 15:16:16,738 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 210: Batch MSE= 243.313797, Duration= 2s
+2019-01-26 15:17:54,825 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 220: Batch MSE= 290.977692, Duration= 2s
+2019-01-26 15:19:32,460 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 230: Batch MSE= 254.006271, Duration= 2s
+2019-01-26 15:21:09,342 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 240: Batch MSE= 577.883118, Duration= 2s
+2019-01-26 15:22:46,550 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 250: Batch MSE= 513.328308, Duration= 2s
+2019-01-26 15:24:24,059 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 260: Batch MSE= 196.515305, Duration= 2s
+2019-01-26 15:26:01,367 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 270: Batch MSE= 311.398560, Duration= 2s
+2019-01-26 15:27:39,506 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 280: Batch MSE= 301.834778, Duration= 2s
+2019-01-26 15:29:16,558 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 290: Batch MSE= 388.069122, Duration= 2s
+2019-01-26 15:30:54,880 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 300: Batch MSE= 338.257324, Duration= 2s
+2019-01-26 15:32:34,585 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 310: Batch MSE= 392.758209, Duration= 2s
+2019-01-26 15:34:11,699 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 320: Batch MSE= 539.017395, Duration= 2s
+2019-01-26 15:35:50,337 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 330: Batch MSE= 727.996826, Duration= 2s
+2019-01-26 15:37:27,944 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 340: Batch MSE= 687.025269, Duration= 2s
+2019-01-26 15:39:05,402 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 350: Batch MSE= 533.295349, Duration= 2s
+2019-01-26 15:40:43,705 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 360: Batch MSE= 470.527405, Duration= 2s
+2019-01-26 15:42:21,479 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 370: Batch MSE= 522.356567, Duration= 2s
+2019-01-26 15:43:59,465 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 380: Batch MSE= 332.617188, Duration= 2s
+2019-01-26 15:45:38,896 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 390: Batch MSE= 670.736267, Duration= 2s
+2019-01-26 15:47:17,218 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 400: Batch MSE= 214.335129, Duration= 2s
+2019-01-26 15:48:54,410 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 410: Batch MSE= 299.222290, Duration= 2s
+2019-01-26 15:50:33,348 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 420: Batch MSE= 71.251518, Duration= 2s
+2019-01-26 15:52:10,639 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 430: Batch MSE= 356.228394, Duration= 2s
+2019-01-26 15:53:49,457 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 440: Batch MSE= 221.203445, Duration= 2s
+2019-01-26 15:55:27,511 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 450: Batch MSE= 283.826569, Duration= 2s
+2019-01-26 15:57:04,271 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 460: Batch MSE= 251.634567, Duration= 2s
+2019-01-26 15:58:41,061 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 3, Iter 470: Batch MSE= 298.836090, Duration= 2s
+2019-01-26 16:00:02,721 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:106] - INFO: Epoch 3: mean MSE: 354.911987, total Duration: 4656s
+2019-01-26 16:00:11,125 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 0: MSE: [323.9224], Duration: 1s
+2019-01-26 16:01:43,090 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 10: MSE: [379.84882], Duration: 1s
+2019-01-26 16:03:16,166 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 20: MSE: [330.23297], Duration: 2s
+2019-01-26 16:04:49,583 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 30: MSE: [131.44395], Duration: 1s
+2019-01-26 16:06:21,719 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 40: MSE: [307.22757], Duration: 2s
+2019-01-26 16:07:55,199 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 50: MSE: [137.02371], Duration: 2s
+2019-01-26 16:09:28,432 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 60: MSE: [413.652], Duration: 1s
+2019-01-26 16:11:00,594 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 70: MSE: [374.27142], Duration: 2s
+2019-01-26 16:12:31,271 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 80: MSE: [311.5186], Duration: 1s
+2019-01-26 16:14:03,543 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 90: MSE: [254.87341], Duration: 2s
+2019-01-26 16:15:35,276 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 100: MSE: [292.8298], Duration: 1s
+2019-01-26 16:17:10,171 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 110: MSE: [459.69492], Duration: 2s
+2019-01-26 16:18:41,844 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 120: MSE: [328.4362], Duration: 2s
+2019-01-26 16:20:14,132 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 130: MSE: [202.61902], Duration: 1s
+2019-01-26 16:21:46,629 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 140: MSE: [377.08624], Duration: 1s
+2019-01-26 16:23:18,758 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:116] - INFO: 	Validation Iter 150: MSE: [308.3389], Duration: 2s
+2019-01-26 16:24:37,897 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:121] - INFO: Validation mean MSE: 313.51202392578125, total Duration: 1475s
+2019-01-26 16:24:49,912 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 0: Batch MSE= 120.253250, Duration= 2s
+2019-01-26 16:26:26,533 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 10: Batch MSE= 159.950531, Duration= 2s
+2019-01-26 16:28:02,544 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 20: Batch MSE= 363.954102, Duration= 2s
+2019-01-26 16:29:42,253 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 30: Batch MSE= 516.687195, Duration= 2s
+2019-01-26 16:31:21,350 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 40: Batch MSE= 513.937317, Duration= 2s
+2019-01-26 16:32:58,732 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 50: Batch MSE= 342.454529, Duration= 2s
+2019-01-26 16:34:36,643 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 60: Batch MSE= 35.688007, Duration= 2s
+2019-01-26 16:36:15,595 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 70: Batch MSE= 223.196060, Duration= 2s
+2019-01-26 16:37:52,319 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 80: Batch MSE= 270.295898, Duration= 2s
+2019-01-26 16:39:29,940 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 90: Batch MSE= 491.326385, Duration= 2s
+2019-01-26 16:41:08,622 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 100: Batch MSE= 217.303268, Duration= 2s
+2019-01-26 16:42:46,310 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 110: Batch MSE= 306.336060, Duration= 2s
+2019-01-26 16:44:24,554 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 120: Batch MSE= 339.800385, Duration= 2s
+2019-01-26 16:46:02,023 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 130: Batch MSE= 394.775726, Duration= 2s
+2019-01-26 16:47:39,441 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 140: Batch MSE= 396.070984, Duration= 2s
+2019-01-26 16:49:17,453 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 150: Batch MSE= 232.099014, Duration= 2s
+2019-01-26 16:50:54,622 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 160: Batch MSE= 234.918076, Duration= 2s
+2019-01-26 16:52:31,823 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 170: Batch MSE= 435.330872, Duration= 2s
+2019-01-26 16:54:08,679 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 180: Batch MSE= 563.881775, Duration= 2s
+2019-01-26 16:55:46,793 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 190: Batch MSE= 431.005188, Duration= 2s
+2019-01-26 16:57:26,011 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 200: Batch MSE= 453.387115, Duration= 2s
+2019-01-26 16:59:03,718 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 210: Batch MSE= 166.598450, Duration= 2s
+2019-01-26 17:00:40,307 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 220: Batch MSE= 337.866302, Duration= 2s
+2019-01-26 17:02:18,551 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 230: Batch MSE= 344.365936, Duration= 2s
+2019-01-26 17:03:55,752 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 240: Batch MSE= 313.826508, Duration= 2s
+2019-01-26 17:05:34,447 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 250: Batch MSE= 910.447632, Duration= 2s
+2019-01-26 17:07:10,881 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 260: Batch MSE= 279.046143, Duration= 2s
+2019-01-26 17:08:49,064 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 270: Batch MSE= 381.998993, Duration= 2s
+2019-01-26 17:10:27,585 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 280: Batch MSE= 428.007202, Duration= 2s
+2019-01-26 17:12:04,729 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 290: Batch MSE= 154.588974, Duration= 2s
+2019-01-26 17:13:41,601 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 300: Batch MSE= 781.186096, Duration= 2s
+2019-01-26 17:15:20,064 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 310: Batch MSE= 278.632050, Duration= 2s
+2019-01-26 17:16:57,849 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 320: Batch MSE= 277.404266, Duration= 2s
+2019-01-26 17:18:36,022 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 330: Batch MSE= 372.888794, Duration= 2s
+2019-01-26 17:20:12,612 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 340: Batch MSE= 250.365997, Duration= 2s
+2019-01-26 17:21:49,274 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 350: Batch MSE= 551.776489, Duration= 2s
+2019-01-26 17:23:25,338 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 360: Batch MSE= 279.797943, Duration= 2s
+2019-01-26 17:25:02,345 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 370: Batch MSE= 418.449951, Duration= 2s
+2019-01-26 17:26:40,477 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 380: Batch MSE= 146.537231, Duration= 2s
+2019-01-26 17:28:17,238 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 390: Batch MSE= 68.935280, Duration= 2s
+2019-01-26 17:29:53,560 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 400: Batch MSE= 549.040955, Duration= 2s
+2019-01-26 17:31:30,367 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 410: Batch MSE= 342.001984, Duration= 2s
+2019-01-26 17:33:07,540 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 420: Batch MSE= 300.607361, Duration= 2s
+2019-01-26 17:34:44,648 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 430: Batch MSE= 375.358459, Duration= 2s
+2019-01-26 17:36:21,829 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 440: Batch MSE= 268.642761, Duration= 2s
+2019-01-26 17:37:58,353 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 450: Batch MSE= 50.409260, Duration= 2s
+2019-01-26 17:39:36,139 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 460: Batch MSE= 711.349243, Duration= 2s
+2019-01-26 17:41:12,616 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 4, Iter 470: Batch MSE= 604.155457, Duration= 2s

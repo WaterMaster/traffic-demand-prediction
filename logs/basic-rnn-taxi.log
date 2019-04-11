@@ -1,0 +1,1327 @@
+2019-02-24 16:58:30,214 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 0: Batch MSE= 40.383831, Duration= 0s
+2019-02-24 16:58:35,137 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 10: Batch MSE= 5.078132, Duration= 0s
+2019-02-24 16:58:39,954 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 20: Batch MSE= 2.329226, Duration= 0s
+2019-02-24 16:58:44,751 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 30: Batch MSE= 2.970185, Duration= 0s
+2019-02-24 16:58:49,399 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 40: Batch MSE= 11.119338, Duration= 0s
+2019-02-24 17:00:13,702 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 0: Batch MSE= 3290.019775, Duration= 2s
+2019-02-24 17:00:19,601 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 10: Batch MSE= 844.817871, Duration= 0s
+2019-02-24 17:00:25,456 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 20: Batch MSE= 3096.136475, Duration= 0s
+2019-02-24 17:00:31,462 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 30: Batch MSE= 2444.947998, Duration= 0s
+2019-02-24 17:00:37,103 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 40: Batch MSE= 1581.573364, Duration= 0s
+2019-02-24 17:00:43,045 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 50: Batch MSE= 2283.200684, Duration= 0s
+2019-02-24 17:00:49,023 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 60: Batch MSE= 1275.656006, Duration= 0s
+2019-02-24 17:00:54,806 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 70: Batch MSE= 588.674744, Duration= 0s
+2019-02-24 17:01:00,777 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 80: Batch MSE= 741.802490, Duration= 0s
+2019-02-24 17:01:43,980 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 90: Batch MSE= 1058.770386, Duration= 0s
+2019-02-24 17:01:50,068 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 100: Batch MSE= 848.286560, Duration= 0s
+2019-02-24 17:02:12,964 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 110: Batch MSE= 756.965515, Duration= 5s
+2019-02-24 17:02:52,808 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 120: Batch MSE= 8.777754, Duration= 0s
+2019-02-24 17:03:04,337 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 130: Batch MSE= 250.519043, Duration= 0s
+2019-02-24 17:03:10,233 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 140: Batch MSE= 727.156189, Duration= 0s
+2019-02-24 17:03:16,289 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 150: Batch MSE= 448.138916, Duration= 0s
+2019-02-24 17:03:22,422 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 160: Batch MSE= 441.490448, Duration= 0s
+2019-02-24 17:03:28,315 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 170: Batch MSE= 438.044373, Duration= 0s
+2019-02-24 17:03:34,169 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 180: Batch MSE= 873.399353, Duration= 0s
+2019-02-24 17:03:40,180 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 190: Batch MSE= 484.498199, Duration= 0s
+2019-02-24 17:03:46,416 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 200: Batch MSE= 938.002991, Duration= 0s
+2019-02-24 17:03:52,461 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 210: Batch MSE= 1039.386353, Duration= 0s
+2019-02-24 17:03:58,447 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 220: Batch MSE= 1249.952759, Duration= 0s
+2019-02-24 17:04:04,624 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 230: Batch MSE= 713.338074, Duration= 0s
+2019-02-24 17:04:10,730 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 240: Batch MSE= 602.474976, Duration= 0s
+2019-02-24 17:04:16,671 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 250: Batch MSE= 846.604004, Duration= 0s
+2019-02-24 17:04:22,671 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 260: Batch MSE= 226.184998, Duration= 0s
+2019-02-24 17:04:28,847 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 270: Batch MSE= 558.022583, Duration= 0s
+2019-02-24 17:04:34,932 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 280: Batch MSE= 449.761902, Duration= 0s
+2019-02-24 17:04:41,069 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 290: Batch MSE= 458.763306, Duration= 0s
+2019-02-24 17:04:47,432 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 300: Batch MSE= 487.988098, Duration= 0s
+2019-02-24 17:04:53,624 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 310: Batch MSE= 695.323303, Duration= 0s
+2019-02-24 17:04:59,687 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 320: Batch MSE= 161.710312, Duration= 0s
+2019-02-24 17:05:05,798 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 330: Batch MSE= 462.482056, Duration= 0s
+2019-02-24 17:05:11,573 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 340: Batch MSE= 487.306702, Duration= 0s
+2019-02-24 17:05:17,685 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 350: Batch MSE= 186.707809, Duration= 0s
+2019-02-24 17:05:23,812 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 360: Batch MSE= 732.401428, Duration= 0s
+2019-02-24 17:05:29,808 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 370: Batch MSE= 273.090271, Duration= 0s
+2019-02-24 17:05:35,331 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 380: Batch MSE= 300.514038, Duration= 0s
+2019-02-24 17:05:41,263 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 390: Batch MSE= 193.679398, Duration= 0s
+2019-02-24 17:05:47,074 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 400: Batch MSE= 338.197388, Duration= 0s
+2019-02-24 17:05:52,817 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 410: Batch MSE= 238.040863, Duration= 0s
+2019-02-24 17:05:58,723 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 420: Batch MSE= 476.990448, Duration= 0s
+2019-02-24 17:06:04,505 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 430: Batch MSE= 508.974091, Duration= 0s
+2019-02-24 17:06:10,521 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 440: Batch MSE= 269.548859, Duration= 0s
+2019-02-24 17:06:16,487 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 450: Batch MSE= 219.300461, Duration= 0s
+2019-02-24 17:06:22,343 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 460: Batch MSE= 241.522110, Duration= 0s
+2019-02-24 17:06:28,268 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 1, Iter 470: Batch MSE= 737.589905, Duration= 0s
+2019-02-24 17:06:33,383 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 1: mean MSE: 746.721924, total Duration: 382s
+2019-02-24 17:06:33,770 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [683.1956], Duration: 0s
+2019-02-24 17:06:38,321 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [436.72827], Duration: 0s
+2019-02-24 17:06:42,254 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [472.5969], Duration: 0s
+2019-02-24 17:06:46,896 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [652.7139], Duration: 0s
+2019-02-24 17:06:51,596 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [329.68365], Duration: 0s
+2019-02-24 17:06:56,007 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [348.16904], Duration: 0s
+2019-02-24 17:07:00,130 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [316.6817], Duration: 0s
+2019-02-24 17:07:04,720 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [525.9545], Duration: 0s
+2019-02-24 17:07:09,168 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [501.64594], Duration: 0s
+2019-02-24 17:07:13,514 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [348.30075], Duration: 0s
+2019-02-24 17:07:17,615 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [767.67413], Duration: 0s
+2019-02-24 17:07:22,177 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [318.11832], Duration: 0s
+2019-02-24 17:07:26,875 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [583.27997], Duration: 0s
+2019-02-24 17:07:31,216 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [290.15222], Duration: 0s
+2019-02-24 17:07:35,427 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [507.49216], Duration: 0s
+2019-02-24 17:07:40,033 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [490.08725], Duration: 0s
+2019-02-24 17:07:44,141 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 407.2389831542969, total Duration: 70s
+2019-02-24 17:07:51,281 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 0: Batch MSE= 480.007385, Duration= 0s
+2019-02-24 17:07:57,389 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 10: Batch MSE= 311.501923, Duration= 0s
+2019-02-24 17:08:03,334 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 20: Batch MSE= 634.614990, Duration= 0s
+2019-02-24 17:08:08,967 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 30: Batch MSE= 518.914978, Duration= 0s
+2019-02-24 17:08:14,548 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 40: Batch MSE= 488.204620, Duration= 0s
+2019-02-24 17:08:20,177 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 50: Batch MSE= 711.560425, Duration= 0s
+2019-02-24 17:08:26,155 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 60: Batch MSE= 707.839111, Duration= 0s
+2019-02-24 17:08:31,991 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 70: Batch MSE= 513.507874, Duration= 0s
+2019-02-24 17:08:37,778 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 80: Batch MSE= 276.534424, Duration= 0s
+2019-02-24 17:08:43,636 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 90: Batch MSE= 346.138214, Duration= 0s
+2019-02-24 17:08:49,859 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 100: Batch MSE= 657.067932, Duration= 0s
+2019-02-24 17:08:55,600 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 110: Batch MSE= 651.631958, Duration= 0s
+2019-02-24 17:09:01,528 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 120: Batch MSE= 377.683319, Duration= 0s
+2019-02-24 17:09:07,332 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 130: Batch MSE= 313.503174, Duration= 0s
+2019-02-24 17:09:13,323 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 140: Batch MSE= 480.178009, Duration= 0s
+2019-02-24 17:09:18,981 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 150: Batch MSE= 411.999329, Duration= 0s
+2019-02-24 17:09:24,851 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 160: Batch MSE= 375.844971, Duration= 0s
+2019-02-24 17:09:30,648 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 170: Batch MSE= 875.841614, Duration= 0s
+2019-02-24 17:09:36,521 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 180: Batch MSE= 530.477051, Duration= 0s
+2019-02-24 17:09:42,529 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 190: Batch MSE= 623.269958, Duration= 0s
+2019-02-24 17:09:48,464 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 200: Batch MSE= 375.084045, Duration= 0s
+2019-02-24 17:09:54,555 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 210: Batch MSE= 449.575409, Duration= 0s
+2019-02-24 17:10:00,626 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 220: Batch MSE= 479.125153, Duration= 0s
+2019-02-24 17:10:06,784 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 230: Batch MSE= 405.428864, Duration= 0s
+2019-02-24 17:10:12,837 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 240: Batch MSE= 607.363831, Duration= 0s
+2019-02-24 17:10:18,836 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 250: Batch MSE= 514.804932, Duration= 0s
+2019-02-24 17:10:24,960 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 260: Batch MSE= 671.387573, Duration= 0s
+2019-02-24 17:10:31,063 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 270: Batch MSE= 540.992065, Duration= 0s
+2019-02-24 17:10:36,932 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 280: Batch MSE= 385.085388, Duration= 0s
+2019-02-24 17:10:42,581 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 290: Batch MSE= 354.292114, Duration= 0s
+2019-02-24 17:10:48,053 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 300: Batch MSE= 543.148010, Duration= 0s
+2019-02-24 17:10:53,942 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 310: Batch MSE= 495.376434, Duration= 0s
+2019-02-24 17:10:59,756 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 320: Batch MSE= 382.914612, Duration= 0s
+2019-02-24 17:11:05,540 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 330: Batch MSE= 453.849457, Duration= 0s
+2019-02-24 17:11:11,397 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 340: Batch MSE= 413.379608, Duration= 0s
+2019-02-24 17:11:17,347 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 350: Batch MSE= 811.961914, Duration= 0s
+2019-02-24 17:11:23,295 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 360: Batch MSE= 561.405945, Duration= 0s
+2019-02-24 17:11:29,258 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 370: Batch MSE= 458.446777, Duration= 0s
+2019-02-24 17:11:35,182 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 380: Batch MSE= 724.443970, Duration= 0s
+2019-02-24 17:11:41,419 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 390: Batch MSE= 408.248535, Duration= 0s
+2019-02-24 17:11:47,312 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 400: Batch MSE= 343.386963, Duration= 0s
+2019-02-24 17:11:53,340 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 410: Batch MSE= 434.777771, Duration= 0s
+2019-02-24 17:11:59,149 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 420: Batch MSE= 599.638672, Duration= 0s
+2019-02-24 17:12:05,298 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 430: Batch MSE= 585.428650, Duration= 0s
+2019-02-24 17:12:10,902 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 440: Batch MSE= 556.903748, Duration= 0s
+2019-02-24 17:12:16,818 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 450: Batch MSE= 249.995514, Duration= 0s
+2019-02-24 17:12:22,541 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 460: Batch MSE= 523.117310, Duration= 0s
+2019-02-24 17:12:28,530 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 2, Iter 470: Batch MSE= 339.114075, Duration= 0s
+2019-02-24 17:12:33,675 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 2: mean MSE: 444.444336, total Duration: 282s
+2019-02-24 17:12:34,063 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [509.79077], Duration: 0s
+2019-02-24 17:12:38,848 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [152.88742], Duration: 0s
+2019-02-24 17:12:43,612 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [336.90543], Duration: 0s
+2019-02-24 17:12:48,151 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [692.2211], Duration: 0s
+2019-02-24 17:12:52,422 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [401.5977], Duration: 0s
+2019-02-24 17:12:57,114 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [605.5813], Duration: 0s
+2019-02-24 17:13:01,813 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [378.10223], Duration: 0s
+2019-02-24 17:13:06,294 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [478.5542], Duration: 0s
+2019-02-24 17:13:10,476 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [172.09917], Duration: 0s
+2019-02-24 17:13:15,199 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [635.6137], Duration: 0s
+2019-02-24 17:13:19,849 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [237.62602], Duration: 0s
+2019-02-24 17:13:24,469 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [206.24199], Duration: 0s
+2019-02-24 17:13:28,635 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [583.2373], Duration: 0s
+2019-02-24 17:13:33,543 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [543.7767], Duration: 0s
+2019-02-24 17:13:38,203 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [631.663], Duration: 0s
+2019-02-24 17:13:42,335 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [361.55664], Duration: 0s
+2019-02-24 17:13:46,294 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 398.521484375, total Duration: 72s
+2019-02-24 17:13:53,783 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 0: Batch MSE= 238.359222, Duration= 0s
+2019-02-24 17:13:59,736 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 10: Batch MSE= 533.217224, Duration= 0s
+2019-02-24 17:14:05,870 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 20: Batch MSE= 156.888000, Duration= 0s
+2019-02-24 17:14:11,857 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 30: Batch MSE= 551.373718, Duration= 0s
+2019-02-24 17:14:17,715 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 40: Batch MSE= 383.184021, Duration= 0s
+2019-02-24 17:14:23,458 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 50: Batch MSE= 344.802826, Duration= 0s
+2019-02-24 17:14:29,220 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 60: Batch MSE= 299.886383, Duration= 0s
+2019-02-24 17:14:35,215 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 70: Batch MSE= 278.832458, Duration= 0s
+2019-02-24 17:14:40,901 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 80: Batch MSE= 539.788025, Duration= 0s
+2019-02-24 17:14:46,853 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 90: Batch MSE= 255.565811, Duration= 0s
+2019-02-24 17:14:52,533 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 100: Batch MSE= 337.680115, Duration= 0s
+2019-02-24 17:14:58,200 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 110: Batch MSE= 316.485138, Duration= 0s
+2019-02-24 17:15:04,341 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 120: Batch MSE= 457.563995, Duration= 0s
+2019-02-24 17:15:10,594 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 130: Batch MSE= 446.573730, Duration= 0s
+2019-02-24 17:15:16,404 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 140: Batch MSE= 355.626434, Duration= 0s
+2019-02-24 17:15:22,359 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 150: Batch MSE= 285.736877, Duration= 0s
+2019-02-24 17:15:28,415 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 160: Batch MSE= 379.388550, Duration= 0s
+2019-02-24 17:15:34,452 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 170: Batch MSE= 393.238220, Duration= 0s
+2019-02-24 17:15:40,753 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 180: Batch MSE= 372.236481, Duration= 0s
+2019-02-24 17:15:46,838 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 190: Batch MSE= 523.033997, Duration= 0s
+2019-02-24 17:15:52,403 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 200: Batch MSE= 514.686523, Duration= 0s
+2019-02-24 17:15:58,061 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 210: Batch MSE= 956.019409, Duration= 0s
+2019-02-24 17:16:03,831 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 220: Batch MSE= 781.081238, Duration= 0s
+2019-02-24 17:16:09,560 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 230: Batch MSE= 479.613037, Duration= 0s
+2019-02-24 17:16:15,300 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 240: Batch MSE= 385.373627, Duration= 0s
+2019-02-24 17:16:21,269 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 250: Batch MSE= 687.187256, Duration= 0s
+2019-02-24 17:16:27,477 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 260: Batch MSE= 522.055359, Duration= 0s
+2019-02-24 17:16:33,351 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 270: Batch MSE= 314.454376, Duration= 0s
+2019-02-24 17:16:39,174 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 280: Batch MSE= 97.721527, Duration= 0s
+2019-02-24 17:16:45,028 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 290: Batch MSE= 231.139511, Duration= 0s
+2019-02-24 17:16:50,897 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 300: Batch MSE= 294.336334, Duration= 0s
+2019-02-24 17:16:56,450 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 310: Batch MSE= 390.152893, Duration= 0s
+2019-02-24 17:17:01,888 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 320: Batch MSE= 521.301025, Duration= 0s
+2019-02-24 17:17:07,665 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 330: Batch MSE= 464.336670, Duration= 0s
+2019-02-24 17:17:13,492 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 340: Batch MSE= 680.058899, Duration= 0s
+2019-02-24 17:17:19,358 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 350: Batch MSE= 607.906616, Duration= 0s
+2019-02-24 17:17:25,276 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 360: Batch MSE= 345.652618, Duration= 0s
+2019-02-24 17:17:31,234 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 370: Batch MSE= 391.171112, Duration= 0s
+2019-02-24 17:17:37,345 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 380: Batch MSE= 526.085388, Duration= 0s
+2019-02-24 17:17:43,119 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 390: Batch MSE= 555.701904, Duration= 0s
+2019-02-24 17:17:48,748 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 400: Batch MSE= 303.783691, Duration= 0s
+2019-02-24 17:17:54,729 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 410: Batch MSE= 554.914124, Duration= 0s
+2019-02-24 17:18:00,677 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 420: Batch MSE= 332.486664, Duration= 0s
+2019-02-24 17:18:06,577 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 430: Batch MSE= 509.929871, Duration= 0s
+2019-02-24 17:18:12,659 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 440: Batch MSE= 595.387939, Duration= 0s
+2019-02-24 17:18:18,615 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 450: Batch MSE= 221.316360, Duration= 0s
+2019-02-24 17:18:24,662 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 460: Batch MSE= 494.309326, Duration= 0s
+2019-02-24 17:18:30,688 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 3, Iter 470: Batch MSE= 424.924835, Duration= 0s
+2019-02-24 17:18:35,294 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 3: mean MSE: 433.357605, total Duration: 281s
+2019-02-24 17:18:35,993 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [635.9715], Duration: 0s
+2019-02-24 17:18:39,966 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [506.0018], Duration: 0s
+2019-02-24 17:18:44,542 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [530.0714], Duration: 0s
+2019-02-24 17:18:49,553 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [428.9828], Duration: 0s
+2019-02-24 17:18:53,868 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [370.27713], Duration: 0s
+2019-02-24 17:18:57,992 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [306.28064], Duration: 0s
+2019-02-24 17:19:02,558 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [417.1765], Duration: 0s
+2019-02-24 17:19:07,283 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [577.7391], Duration: 0s
+2019-02-24 17:19:11,365 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [411.17044], Duration: 0s
+2019-02-24 17:19:16,027 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [342.1531], Duration: 0s
+2019-02-24 17:19:20,798 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [366.5895], Duration: 0s
+2019-02-24 17:19:25,449 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [35.03714], Duration: 0s
+2019-02-24 17:19:29,692 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [480.38724], Duration: 0s
+2019-02-24 17:19:34,386 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [431.24472], Duration: 0s
+2019-02-24 17:19:39,274 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [333.55377], Duration: 0s
+2019-02-24 17:19:43,221 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [471.14136], Duration: 0s
+2019-02-24 17:19:47,381 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 387.703857421875, total Duration: 72s
+2019-02-24 17:19:54,237 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 0: Batch MSE= 409.039215, Duration= 0s
+2019-02-24 17:20:00,216 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 10: Batch MSE= 730.583862, Duration= 0s
+2019-02-24 17:20:06,073 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 20: Batch MSE= 388.376984, Duration= 0s
+2019-02-24 17:20:12,011 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 30: Batch MSE= 562.050659, Duration= 0s
+2019-02-24 17:20:17,992 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 40: Batch MSE= 457.976379, Duration= 0s
+2019-02-24 17:20:24,162 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 50: Batch MSE= 306.074036, Duration= 0s
+2019-02-24 17:20:30,174 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 60: Batch MSE= 453.712952, Duration= 0s
+2019-02-24 17:20:36,131 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 70: Batch MSE= 455.519470, Duration= 0s
+2019-02-24 17:20:41,851 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 80: Batch MSE= 257.459015, Duration= 0s
+2019-02-24 17:20:47,700 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 90: Batch MSE= 423.057983, Duration= 0s
+2019-02-24 17:20:53,546 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 100: Batch MSE= 112.041443, Duration= 0s
+2019-02-24 17:20:59,636 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 110: Batch MSE= 653.180725, Duration= 0s
+2019-02-24 17:21:05,735 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 120: Batch MSE= 328.369324, Duration= 0s
+2019-02-24 17:21:11,714 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 130: Batch MSE= 518.281616, Duration= 0s
+2019-02-24 17:21:17,659 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 140: Batch MSE= 257.424377, Duration= 0s
+2019-02-24 17:21:23,511 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 150: Batch MSE= 688.867126, Duration= 0s
+2019-02-24 17:21:29,637 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 160: Batch MSE= 495.054565, Duration= 0s
+2019-02-24 17:21:35,634 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 170: Batch MSE= 172.547989, Duration= 0s
+2019-02-24 17:21:41,286 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 180: Batch MSE= 302.007751, Duration= 0s
+2019-02-24 17:21:46,629 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 190: Batch MSE= 520.371399, Duration= 0s
+2019-02-24 17:21:52,473 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 200: Batch MSE= 229.069092, Duration= 0s
+2019-02-24 17:21:58,616 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 210: Batch MSE= 428.409058, Duration= 0s
+2019-02-24 17:22:04,570 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 220: Batch MSE= 441.967957, Duration= 0s
+2019-02-24 17:22:10,856 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 230: Batch MSE= 450.179871, Duration= 0s
+2019-02-24 17:22:16,665 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 240: Batch MSE= 948.637268, Duration= 0s
+2019-02-24 17:22:22,553 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 250: Batch MSE= 473.256744, Duration= 0s
+2019-02-24 17:22:28,482 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 260: Batch MSE= 866.696655, Duration= 0s
+2019-02-24 17:22:34,486 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 270: Batch MSE= 489.333313, Duration= 0s
+2019-02-24 17:22:40,536 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 280: Batch MSE= 509.209808, Duration= 0s
+2019-02-24 17:22:46,163 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 290: Batch MSE= 515.395874, Duration= 0s
+2019-02-24 17:22:51,705 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 300: Batch MSE= 133.455795, Duration= 0s
+2019-02-24 17:22:57,554 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 310: Batch MSE= 221.106293, Duration= 0s
+2019-02-24 17:23:03,500 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 320: Batch MSE= 98.137489, Duration= 0s
+2019-02-24 17:23:09,455 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 330: Batch MSE= 384.865814, Duration= 0s
+2019-02-24 17:23:15,579 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 340: Batch MSE= 376.720215, Duration= 0s
+2019-02-24 17:23:21,546 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 350: Batch MSE= 467.079224, Duration= 0s
+2019-02-24 17:23:27,335 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 360: Batch MSE= 418.591492, Duration= 0s
+2019-02-24 17:23:33,163 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 370: Batch MSE= 804.844055, Duration= 0s
+2019-02-24 17:23:39,145 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 380: Batch MSE= 522.464905, Duration= 0s
+2019-02-24 17:23:45,099 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 390: Batch MSE= 222.991653, Duration= 0s
+2019-02-24 17:23:51,004 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 400: Batch MSE= 557.417908, Duration= 0s
+2019-02-24 17:23:56,990 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 410: Batch MSE= 122.143425, Duration= 0s
+2019-02-24 17:24:02,508 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 420: Batch MSE= 239.399933, Duration= 0s
+2019-02-24 17:24:08,242 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 430: Batch MSE= 619.122681, Duration= 0s
+2019-02-24 17:24:14,262 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 440: Batch MSE= 324.366913, Duration= 0s
+2019-02-24 17:24:20,283 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 450: Batch MSE= 440.240601, Duration= 0s
+2019-02-24 17:24:26,406 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 460: Batch MSE= 564.302368, Duration= 0s
+2019-02-24 17:24:32,107 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 4, Iter 470: Batch MSE= 583.135071, Duration= 0s
+2019-02-24 17:24:37,095 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 4: mean MSE: 424.728027, total Duration: 283s
+2019-02-24 17:24:37,517 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [443.85458], Duration: 0s
+2019-02-24 17:24:42,342 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [507.75674], Duration: 0s
+2019-02-24 17:24:46,841 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [376.86545], Duration: 0s
+2019-02-24 17:24:51,236 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [395.65067], Duration: 0s
+2019-02-24 17:24:56,129 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [335.02914], Duration: 0s
+2019-02-24 17:25:00,958 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [443.68506], Duration: 0s
+2019-02-24 17:25:05,802 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [507.80396], Duration: 0s
+2019-02-24 17:25:09,782 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [526.4212], Duration: 0s
+2019-02-24 17:25:14,435 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [873.8334], Duration: 0s
+2019-02-24 17:25:19,194 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [378.0683], Duration: 0s
+2019-02-24 17:25:23,713 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [217.74156], Duration: 0s
+2019-02-24 17:25:27,762 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [436.17575], Duration: 0s
+2019-02-24 17:25:32,272 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [465.30066], Duration: 0s
+2019-02-24 17:25:36,886 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [164.04826], Duration: 0s
+2019-02-24 17:25:41,635 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [236.84802], Duration: 0s
+2019-02-24 17:25:45,510 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [500.7567], Duration: 0s
+2019-02-24 17:25:49,701 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 378.9088439941406, total Duration: 72s
+2019-02-24 17:25:56,609 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 0: Batch MSE= 639.562805, Duration= 0s
+2019-02-24 17:26:02,374 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 10: Batch MSE= 110.137207, Duration= 0s
+2019-02-24 17:26:08,479 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 20: Batch MSE= 469.461243, Duration= 0s
+2019-02-24 17:26:14,280 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 30: Batch MSE= 251.307693, Duration= 0s
+2019-02-24 17:26:20,251 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 40: Batch MSE= 335.661652, Duration= 0s
+2019-02-24 17:26:26,315 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 50: Batch MSE= 236.569839, Duration= 0s
+2019-02-24 17:26:32,336 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 60: Batch MSE= 247.233414, Duration= 0s
+2019-02-24 17:26:37,844 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 70: Batch MSE= 433.224030, Duration= 0s
+2019-02-24 17:26:43,351 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 80: Batch MSE= 238.652145, Duration= 0s
+2019-02-24 17:26:49,133 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 90: Batch MSE= 165.715744, Duration= 0s
+2019-02-24 17:26:55,046 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 100: Batch MSE= 224.595139, Duration= 0s
+2019-02-24 17:27:01,137 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 110: Batch MSE= 650.288025, Duration= 0s
+2019-02-24 17:27:07,071 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 120: Batch MSE= 485.167786, Duration= 0s
+2019-02-24 17:27:13,171 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 130: Batch MSE= 675.689270, Duration= 0s
+2019-02-24 17:27:18,973 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 140: Batch MSE= 280.249359, Duration= 0s
+2019-02-24 17:27:25,086 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 150: Batch MSE= 165.343414, Duration= 0s
+2019-02-24 17:27:30,784 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 160: Batch MSE= 310.663177, Duration= 0s
+2019-02-24 17:27:36,617 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 170: Batch MSE= 406.949341, Duration= 0s
+2019-02-24 17:27:42,437 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 180: Batch MSE= 284.063538, Duration= 0s
+2019-02-24 17:27:48,310 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 190: Batch MSE= 456.985474, Duration= 0s
+2019-02-24 17:27:53,884 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 200: Batch MSE= 585.243408, Duration= 0s
+2019-02-24 17:27:59,557 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 210: Batch MSE= 574.411560, Duration= 0s
+2019-02-24 17:28:05,275 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 220: Batch MSE= 386.831085, Duration= 0s
+2019-02-24 17:28:11,234 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 230: Batch MSE= 233.651047, Duration= 0s
+2019-02-24 17:28:17,443 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 240: Batch MSE= 473.379700, Duration= 0s
+2019-02-24 17:28:23,363 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 250: Batch MSE= 463.154602, Duration= 0s
+2019-02-24 17:28:29,279 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 260: Batch MSE= 343.973816, Duration= 0s
+2019-02-24 17:28:35,508 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 270: Batch MSE= 459.585480, Duration= 0s
+2019-02-24 17:28:41,666 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 280: Batch MSE= 478.224274, Duration= 0s
+2019-02-24 17:28:47,563 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 290: Batch MSE= 467.964600, Duration= 0s
+2019-02-24 17:28:53,554 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 300: Batch MSE= 315.543243, Duration= 0s
+2019-02-24 17:28:59,476 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 310: Batch MSE= 336.261963, Duration= 0s
+2019-02-24 17:29:05,611 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 320: Batch MSE= 315.586426, Duration= 0s
+2019-02-24 17:29:11,564 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 330: Batch MSE= 486.383881, Duration= 0s
+2019-02-24 17:29:17,796 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 340: Batch MSE= 653.439514, Duration= 0s
+2019-02-24 17:29:23,679 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 350: Batch MSE= 419.392334, Duration= 0s
+2019-02-24 17:29:29,228 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 360: Batch MSE= 271.084625, Duration= 0s
+2019-02-24 17:29:35,305 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 370: Batch MSE= 514.161926, Duration= 0s
+2019-02-24 17:29:41,039 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 380: Batch MSE= 290.031006, Duration= 0s
+2019-02-24 17:29:46,839 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 390: Batch MSE= 644.866272, Duration= 0s
+2019-02-24 17:29:52,870 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 400: Batch MSE= 356.084656, Duration= 0s
+2019-02-24 17:29:58,768 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 410: Batch MSE= 417.683319, Duration= 0s
+2019-02-24 17:30:04,781 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 420: Batch MSE= 403.324402, Duration= 0s
+2019-02-24 17:30:10,926 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 430: Batch MSE= 98.196938, Duration= 0s
+2019-02-24 17:30:16,815 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 440: Batch MSE= 393.844452, Duration= 0s
+2019-02-24 17:30:22,853 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 450: Batch MSE= 195.449875, Duration= 0s
+2019-02-24 17:30:28,777 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 460: Batch MSE= 436.453857, Duration= 0s
+2019-02-24 17:30:34,728 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 5, Iter 470: Batch MSE= 639.076111, Duration= 0s
+2019-02-24 17:30:39,763 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 5: mean MSE: 412.844666, total Duration: 283s
+2019-02-24 17:30:40,394 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [327.22974], Duration: 0s
+2019-02-24 17:30:44,413 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [208.68024], Duration: 0s
+2019-02-24 17:30:49,241 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [419.9355], Duration: 0s
+2019-02-24 17:30:54,024 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [348.162], Duration: 0s
+2019-02-24 17:30:58,819 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [303.0693], Duration: 0s
+2019-02-24 17:31:02,831 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [378.93762], Duration: 0s
+2019-02-24 17:31:07,439 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [157.11913], Duration: 0s
+2019-02-24 17:31:12,062 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [543.45807], Duration: 0s
+2019-02-24 17:31:16,662 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [174.94595], Duration: 0s
+2019-02-24 17:31:20,552 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [370.0115], Duration: 0s
+2019-02-24 17:31:25,268 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [199.30219], Duration: 0s
+2019-02-24 17:31:29,844 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [545.3002], Duration: 0s
+2019-02-24 17:31:34,445 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [413.99567], Duration: 0s
+2019-02-24 17:31:38,416 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [223.79457], Duration: 0s
+2019-02-24 17:31:43,172 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [226.23431], Duration: 0s
+2019-02-24 17:31:47,919 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [393.82986], Duration: 0s
+2019-02-24 17:31:51,494 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 364.9376525878906, total Duration: 71s
+2019-02-24 17:31:59,221 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 0: Batch MSE= 287.084503, Duration= 0s
+2019-02-24 17:32:05,106 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 10: Batch MSE= 405.869965, Duration= 0s
+2019-02-24 17:32:10,806 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 20: Batch MSE= 429.135284, Duration= 0s
+2019-02-24 17:32:16,643 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 30: Batch MSE= 446.242798, Duration= 0s
+2019-02-24 17:32:22,252 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 40: Batch MSE= 377.817078, Duration= 0s
+2019-02-24 17:32:28,083 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 50: Batch MSE= 419.723145, Duration= 0s
+2019-02-24 17:32:33,966 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 60: Batch MSE= 115.659081, Duration= 0s
+2019-02-24 17:32:39,721 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 70: Batch MSE= 447.074402, Duration= 0s
+2019-02-24 17:32:45,767 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 80: Batch MSE= 547.987793, Duration= 0s
+2019-02-24 17:32:51,953 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 90: Batch MSE= 563.430969, Duration= 0s
+2019-02-24 17:32:58,011 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 100: Batch MSE= 321.834717, Duration= 0s
+2019-02-24 17:33:04,092 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 110: Batch MSE= 437.661652, Duration= 0s
+2019-02-24 17:33:09,980 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 120: Batch MSE= 259.747253, Duration= 0s
+2019-02-24 17:33:15,797 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 130: Batch MSE= 401.122314, Duration= 0s
+2019-02-24 17:33:21,879 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 140: Batch MSE= 472.241699, Duration= 0s
+2019-02-24 17:33:27,813 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 150: Batch MSE= 318.263306, Duration= 0s
+2019-02-24 17:33:33,911 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 160: Batch MSE= 499.612244, Duration= 0s
+2019-02-24 17:33:39,845 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 170: Batch MSE= 675.012756, Duration= 0s
+2019-02-24 17:33:45,819 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 180: Batch MSE= 289.576019, Duration= 0s
+2019-02-24 17:33:51,613 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 190: Batch MSE= 298.672455, Duration= 0s
+2019-02-24 17:33:57,319 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 200: Batch MSE= 286.340149, Duration= 0s
+2019-02-24 17:34:03,267 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 210: Batch MSE= 333.917755, Duration= 0s
+2019-02-24 17:34:09,092 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 220: Batch MSE= 388.018585, Duration= 0s
+2019-02-24 17:34:15,058 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 230: Batch MSE= 392.469299, Duration= 0s
+2019-02-24 17:34:20,968 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 240: Batch MSE= 215.518814, Duration= 0s
+2019-02-24 17:34:27,099 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 250: Batch MSE= 408.501801, Duration= 0s
+2019-02-24 17:34:33,295 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 260: Batch MSE= 273.717285, Duration= 0s
+2019-02-24 17:34:39,458 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 270: Batch MSE= 297.092987, Duration= 0s
+2019-02-24 17:34:45,611 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 280: Batch MSE= 183.736511, Duration= 0s
+2019-02-24 17:34:51,738 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 290: Batch MSE= 422.623169, Duration= 0s
+2019-02-24 17:34:57,828 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 300: Batch MSE= 662.785828, Duration= 0s
+2019-02-24 17:35:03,836 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 310: Batch MSE= 393.888855, Duration= 0s
+2019-02-24 17:35:09,869 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 320: Batch MSE= 319.031921, Duration= 0s
+2019-02-24 17:35:15,788 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 330: Batch MSE= 444.119415, Duration= 0s
+2019-02-24 17:35:21,725 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 340: Batch MSE= 455.073914, Duration= 0s
+2019-02-24 17:35:27,464 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 350: Batch MSE= 744.526672, Duration= 0s
+2019-02-24 17:35:33,076 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 360: Batch MSE= 268.451080, Duration= 0s
+2019-02-24 17:35:38,495 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 370: Batch MSE= 447.215942, Duration= 0s
+2019-02-24 17:35:44,287 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 380: Batch MSE= 322.904175, Duration= 0s
+2019-02-24 17:35:50,207 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 390: Batch MSE= 657.091125, Duration= 0s
+2019-02-24 17:35:56,264 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 400: Batch MSE= 377.226837, Duration= 0s
+2019-02-24 17:36:02,177 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 410: Batch MSE= 558.972961, Duration= 0s
+2019-02-24 17:36:08,003 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 420: Batch MSE= 618.012146, Duration= 0s
+2019-02-24 17:36:13,894 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 430: Batch MSE= 251.400299, Duration= 0s
+2019-02-24 17:36:19,808 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 440: Batch MSE= 554.556213, Duration= 0s
+2019-02-24 17:36:25,536 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 450: Batch MSE= 441.943085, Duration= 0s
+2019-02-24 17:36:31,556 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 460: Batch MSE= 447.425415, Duration= 0s
+2019-02-24 17:36:37,424 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 6, Iter 470: Batch MSE= 232.411743, Duration= 0s
+2019-02-24 17:36:41,965 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 6: mean MSE: 408.231720, total Duration: 283s
+2019-02-24 17:36:42,586 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [339.61685], Duration: 0s
+2019-02-24 17:36:46,815 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [199.18015], Duration: 0s
+2019-02-24 17:36:51,513 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [269.341], Duration: 0s
+2019-02-24 17:36:56,126 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [526.4656], Duration: 0s
+2019-02-24 17:37:00,606 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [331.27042], Duration: 0s
+2019-02-24 17:37:04,835 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [384.0002], Duration: 0s
+2019-02-24 17:37:09,617 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [341.0325], Duration: 0s
+2019-02-24 17:37:14,314 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [222.60999], Duration: 0s
+2019-02-24 17:37:18,419 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [245.1793], Duration: 0s
+2019-02-24 17:37:22,783 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [375.31763], Duration: 0s
+2019-02-24 17:37:27,375 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [164.95967], Duration: 0s
+2019-02-24 17:37:32,060 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [378.35278], Duration: 0s
+2019-02-24 17:37:36,028 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [229.00743], Duration: 0s
+2019-02-24 17:37:40,581 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [470.27148], Duration: 0s
+2019-02-24 17:37:45,051 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [231.35042], Duration: 0s
+2019-02-24 17:37:49,539 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [231.09895], Duration: 0s
+2019-02-24 17:37:53,168 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 365.50201416015625, total Duration: 71s
+2019-02-24 17:37:53,661 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 0: Batch MSE= 317.950104, Duration= 0s
+2019-02-24 17:37:59,388 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 10: Batch MSE= 329.699738, Duration= 0s
+2019-02-24 17:38:05,352 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 20: Batch MSE= 380.857788, Duration= 0s
+2019-02-24 17:38:11,348 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 30: Batch MSE= 377.153412, Duration= 0s
+2019-02-24 17:38:17,391 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 40: Batch MSE= 307.442902, Duration= 0s
+2019-02-24 17:38:23,393 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 50: Batch MSE= 210.688385, Duration= 0s
+2019-02-24 17:38:29,195 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 60: Batch MSE= 256.536194, Duration= 0s
+2019-02-24 17:38:35,173 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 70: Batch MSE= 217.105072, Duration= 0s
+2019-02-24 17:38:41,039 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 80: Batch MSE= 708.983215, Duration= 0s
+2019-02-24 17:38:46,897 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 90: Batch MSE= 398.176849, Duration= 0s
+2019-02-24 17:38:52,966 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 100: Batch MSE= 357.182129, Duration= 0s
+2019-02-24 17:38:58,605 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 110: Batch MSE= 635.023499, Duration= 0s
+2019-02-24 17:39:04,215 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 120: Batch MSE= 425.719330, Duration= 0s
+2019-02-24 17:39:10,367 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 130: Batch MSE= 691.508972, Duration= 0s
+2019-02-24 17:39:15,970 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 140: Batch MSE= 150.030106, Duration= 0s
+2019-02-24 17:39:22,161 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 150: Batch MSE= 278.040771, Duration= 0s
+2019-02-24 17:39:28,034 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 160: Batch MSE= 371.197784, Duration= 0s
+2019-02-24 17:39:33,949 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 170: Batch MSE= 522.724854, Duration= 0s
+2019-02-24 17:39:40,140 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 180: Batch MSE= 735.507874, Duration= 0s
+2019-02-24 17:39:45,848 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 190: Batch MSE= 522.478455, Duration= 0s
+2019-02-24 17:39:51,843 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 200: Batch MSE= 297.900696, Duration= 0s
+2019-02-24 17:39:57,823 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 210: Batch MSE= 570.312988, Duration= 0s
+2019-02-24 17:40:03,930 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 220: Batch MSE= 364.024750, Duration= 0s
+2019-02-24 17:40:09,952 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 230: Batch MSE= 710.104675, Duration= 0s
+2019-02-24 17:40:16,205 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 240: Batch MSE= 444.933258, Duration= 0s
+2019-02-24 17:40:22,136 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 250: Batch MSE= 343.289825, Duration= 0s
+2019-02-24 17:40:27,739 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 260: Batch MSE= 355.091522, Duration= 0s
+2019-02-24 17:40:33,529 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 270: Batch MSE= 524.132324, Duration= 0s
+2019-02-24 17:40:39,166 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 280: Batch MSE= 295.188812, Duration= 0s
+2019-02-24 17:40:44,857 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 290: Batch MSE= 159.274292, Duration= 0s
+2019-02-24 17:40:50,735 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 300: Batch MSE= 352.136292, Duration= 0s
+2019-02-24 17:40:56,765 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 310: Batch MSE= 703.210022, Duration= 0s
+2019-02-24 17:41:02,654 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 320: Batch MSE= 299.425873, Duration= 0s
+2019-02-24 17:41:08,596 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 330: Batch MSE= 762.149353, Duration= 0s
+2019-02-24 17:41:14,506 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 340: Batch MSE= 547.195923, Duration= 0s
+2019-02-24 17:41:20,446 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 350: Batch MSE= 391.544037, Duration= 0s
+2019-02-24 17:41:26,282 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 360: Batch MSE= 144.867203, Duration= 0s
+2019-02-24 17:41:32,270 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 370: Batch MSE= 423.718109, Duration= 0s
+2019-02-24 17:41:38,309 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 380: Batch MSE= 367.968536, Duration= 0s
+2019-02-24 17:41:44,096 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 390: Batch MSE= 296.946045, Duration= 0s
+2019-02-24 17:41:49,725 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 400: Batch MSE= 251.060867, Duration= 0s
+2019-02-24 17:41:55,347 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 410: Batch MSE= 360.046478, Duration= 0s
+2019-02-24 17:42:01,390 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 420: Batch MSE= 607.146057, Duration= 0s
+2019-02-24 17:42:07,304 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 430: Batch MSE= 560.780396, Duration= 0s
+2019-02-24 17:42:13,289 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 440: Batch MSE= 479.800842, Duration= 0s
+2019-02-24 17:42:19,219 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 450: Batch MSE= 105.049034, Duration= 0s
+2019-02-24 17:42:25,608 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 460: Batch MSE= 387.874634, Duration= 0s
+2019-02-24 17:42:31,667 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 7, Iter 470: Batch MSE= 479.310120, Duration= 0s
+2019-02-24 17:42:36,635 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 7: mean MSE: 417.192841, total Duration: 283s
+2019-02-24 17:42:37,016 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [253.72827], Duration: 0s
+2019-02-24 17:42:41,620 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [555.19763], Duration: 0s
+2019-02-24 17:42:45,593 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [400.43378], Duration: 0s
+2019-02-24 17:42:50,256 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [207.2026], Duration: 0s
+2019-02-24 17:42:54,897 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [286.3078], Duration: 0s
+2019-02-24 17:42:59,752 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [415.99207], Duration: 0s
+2019-02-24 17:43:03,787 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [318.33258], Duration: 0s
+2019-02-24 17:43:08,197 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [248.92793], Duration: 0s
+2019-02-24 17:43:12,846 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [705.5154], Duration: 0s
+2019-02-24 17:43:17,465 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [217.26707], Duration: 0s
+2019-02-24 17:43:21,533 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [370.81668], Duration: 0s
+2019-02-24 17:43:25,991 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [375.43762], Duration: 0s
+2019-02-24 17:43:30,690 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [415.7896], Duration: 0s
+2019-02-24 17:43:35,167 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [391.9587], Duration: 0s
+2019-02-24 17:43:39,085 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [467.7208], Duration: 0s
+2019-02-24 17:43:43,573 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [326.10834], Duration: 0s
+2019-02-24 17:43:47,230 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 369.69952392578125, total Duration: 70s
+2019-02-24 17:43:47,724 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 0: Batch MSE= 286.130402, Duration= 0s
+2019-02-24 17:43:52,855 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 10: Batch MSE= 451.937653, Duration= 0s
+2019-02-24 17:43:58,092 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 20: Batch MSE= 405.538300, Duration= 0s
+2019-02-24 17:44:03,406 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 30: Batch MSE= 522.794373, Duration= 0s
+2019-02-24 17:44:08,847 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 40: Batch MSE= 187.943451, Duration= 0s
+2019-02-24 17:44:14,344 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 50: Batch MSE= 290.480286, Duration= 0s
+2019-02-24 17:44:19,715 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 60: Batch MSE= 477.466644, Duration= 0s
+2019-02-24 17:44:25,062 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 70: Batch MSE= 455.608734, Duration= 0s
+2019-02-24 17:44:30,566 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 80: Batch MSE= 420.173401, Duration= 0s
+2019-02-24 17:44:35,970 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 90: Batch MSE= 748.833740, Duration= 0s
+2019-02-24 17:44:41,183 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 100: Batch MSE= 442.999084, Duration= 0s
+2019-02-24 17:44:46,742 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 110: Batch MSE= 427.690765, Duration= 0s
+2019-02-24 17:44:52,082 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 120: Batch MSE= 490.195709, Duration= 0s
+2019-02-24 17:44:57,310 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 130: Batch MSE= 360.991821, Duration= 0s
+2019-02-24 17:45:02,639 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 140: Batch MSE= 727.630859, Duration= 0s
+2019-02-24 17:45:07,907 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 150: Batch MSE= 519.081787, Duration= 0s
+2019-02-24 17:45:13,335 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 160: Batch MSE= 455.357056, Duration= 0s
+2019-02-24 17:45:18,696 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 170: Batch MSE= 366.907898, Duration= 0s
+2019-02-24 17:45:24,099 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 180: Batch MSE= 485.024658, Duration= 0s
+2019-02-24 17:45:29,254 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 190: Batch MSE= 486.968048, Duration= 0s
+2019-02-24 17:45:34,676 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 200: Batch MSE= 589.549255, Duration= 0s
+2019-02-24 17:45:39,867 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 210: Batch MSE= 71.737755, Duration= 0s
+2019-02-24 17:45:45,214 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 220: Batch MSE= 134.791245, Duration= 0s
+2019-02-24 17:45:50,530 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 230: Batch MSE= 303.915985, Duration= 0s
+2019-02-24 17:45:56,222 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 240: Batch MSE= 481.316895, Duration= 0s
+2019-02-24 17:46:01,408 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 250: Batch MSE= 205.122070, Duration= 0s
+2019-02-24 17:46:06,670 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 260: Batch MSE= 521.465088, Duration= 0s
+2019-02-24 17:46:12,027 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 270: Batch MSE= 168.523453, Duration= 0s
+2019-02-24 17:46:17,410 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 280: Batch MSE= 426.410492, Duration= 0s
+2019-02-24 17:46:22,741 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 290: Batch MSE= 235.695389, Duration= 0s
+2019-02-24 17:46:27,996 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 300: Batch MSE= 267.213593, Duration= 0s
+2019-02-24 17:46:33,307 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 310: Batch MSE= 197.510025, Duration= 0s
+2019-02-24 17:46:38,727 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 320: Batch MSE= 366.274719, Duration= 0s
+2019-02-24 17:46:44,026 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 330: Batch MSE= 347.931580, Duration= 0s
+2019-02-24 17:46:49,248 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 340: Batch MSE= 617.949158, Duration= 0s
+2019-02-24 17:46:54,659 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 350: Batch MSE= 480.547577, Duration= 0s
+2019-02-24 17:46:59,996 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 360: Batch MSE= 579.641357, Duration= 0s
+2019-02-24 17:47:05,354 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 370: Batch MSE= 86.832436, Duration= 0s
+2019-02-24 17:47:10,603 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 380: Batch MSE= 350.282501, Duration= 0s
+2019-02-24 17:47:15,833 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 390: Batch MSE= 424.893890, Duration= 0s
+2019-02-24 17:47:21,235 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 400: Batch MSE= 571.316101, Duration= 0s
+2019-02-24 17:47:26,630 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 410: Batch MSE= 453.230530, Duration= 0s
+2019-02-24 17:47:31,890 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 420: Batch MSE= 545.674500, Duration= 0s
+2019-02-24 17:47:37,161 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 430: Batch MSE= 866.581543, Duration= 0s
+2019-02-24 17:47:42,522 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 440: Batch MSE= 181.307846, Duration= 0s
+2019-02-24 17:47:47,723 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 450: Batch MSE= 413.164642, Duration= 0s
+2019-02-24 17:47:53,072 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 460: Batch MSE= 455.486420, Duration= 0s
+2019-02-24 17:47:58,426 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 8, Iter 470: Batch MSE= 211.580078, Duration= 0s
+2019-02-24 17:48:03,044 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 8: mean MSE: 407.948212, total Duration: 255s
+2019-02-24 17:48:03,415 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [682.2337], Duration: 0s
+2019-02-24 17:48:07,445 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [643.4377], Duration: 0s
+2019-02-24 17:48:11,704 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [306.53442], Duration: 0s
+2019-02-24 17:48:15,726 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [176.14162], Duration: 0s
+2019-02-24 17:48:19,946 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [305.8337], Duration: 0s
+2019-02-24 17:48:23,976 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [189.26749], Duration: 0s
+2019-02-24 17:48:28,088 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [399.12054], Duration: 0s
+2019-02-24 17:48:32,340 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [489.9124], Duration: 0s
+2019-02-24 17:48:36,479 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [556.4123], Duration: 0s
+2019-02-24 17:48:40,595 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [233.94426], Duration: 0s
+2019-02-24 17:48:44,610 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [288.2221], Duration: 0s
+2019-02-24 17:48:48,845 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [310.913], Duration: 0s
+2019-02-24 17:48:53,024 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [460.74405], Duration: 0s
+2019-02-24 17:48:57,183 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [521.7174], Duration: 0s
+2019-02-24 17:49:01,268 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [232.29387], Duration: 0s
+2019-02-24 17:49:05,412 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [278.35046], Duration: 0s
+2019-02-24 17:49:08,973 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 364.0303649902344, total Duration: 65s
+2019-02-24 17:49:15,939 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 0: Batch MSE= 387.086456, Duration= 0s
+2019-02-24 17:49:21,286 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 10: Batch MSE= 441.750366, Duration= 0s
+2019-02-24 17:49:26,541 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 20: Batch MSE= 482.844971, Duration= 0s
+2019-02-24 17:49:31,717 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 30: Batch MSE= 542.682190, Duration= 0s
+2019-02-24 17:49:37,254 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 40: Batch MSE= 326.966278, Duration= 0s
+2019-02-24 17:49:42,627 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 50: Batch MSE= 324.391113, Duration= 0s
+2019-02-24 17:49:47,991 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 60: Batch MSE= 198.684204, Duration= 0s
+2019-02-24 17:49:53,237 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 70: Batch MSE= 569.953247, Duration= 0s
+2019-02-24 17:49:58,505 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 80: Batch MSE= 417.095123, Duration= 0s
+2019-02-24 17:50:03,858 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 90: Batch MSE= 496.643555, Duration= 0s
+2019-02-24 17:50:09,149 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 100: Batch MSE= 290.605927, Duration= 0s
+2019-02-24 17:50:14,610 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 110: Batch MSE= 471.054474, Duration= 0s
+2019-02-24 17:50:20,051 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 120: Batch MSE= 165.937225, Duration= 0s
+2019-02-24 17:50:25,509 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 130: Batch MSE= 395.794922, Duration= 0s
+2019-02-24 17:50:30,854 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 140: Batch MSE= 248.160965, Duration= 0s
+2019-02-24 17:50:36,129 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 150: Batch MSE= 464.343994, Duration= 0s
+2019-02-24 17:50:41,444 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 160: Batch MSE= 332.931915, Duration= 0s
+2019-02-24 17:50:46,696 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 170: Batch MSE= 237.560211, Duration= 0s
+2019-02-24 17:50:52,082 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 180: Batch MSE= 371.606659, Duration= 0s
+2019-02-24 17:50:57,312 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 190: Batch MSE= 316.433350, Duration= 0s
+2019-02-24 17:51:02,620 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 200: Batch MSE= 294.968597, Duration= 0s
+2019-02-24 17:51:08,024 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 210: Batch MSE= 454.146820, Duration= 0s
+2019-02-24 17:51:13,323 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 220: Batch MSE= 341.801910, Duration= 0s
+2019-02-24 17:51:18,656 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 230: Batch MSE= 347.688202, Duration= 0s
+2019-02-24 17:51:23,920 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 240: Batch MSE= 191.727692, Duration= 0s
+2019-02-24 17:51:29,223 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 250: Batch MSE= 492.582642, Duration= 0s
+2019-02-24 17:51:34,407 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 260: Batch MSE= 154.453156, Duration= 0s
+2019-02-24 17:51:39,822 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 270: Batch MSE= 605.128967, Duration= 0s
+2019-02-24 17:51:45,076 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 280: Batch MSE= 366.935272, Duration= 0s
+2019-02-24 17:51:50,439 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 290: Batch MSE= 837.296997, Duration= 0s
+2019-02-24 17:51:55,894 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 300: Batch MSE= 303.559204, Duration= 0s
+2019-02-24 17:52:01,258 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 310: Batch MSE= 536.302246, Duration= 0s
+2019-02-24 17:52:06,523 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 320: Batch MSE= 281.686005, Duration= 0s
+2019-02-24 17:52:11,806 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 330: Batch MSE= 508.094208, Duration= 0s
+2019-02-24 17:52:17,122 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 340: Batch MSE= 621.855225, Duration= 0s
+2019-02-24 17:52:22,287 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 350: Batch MSE= 355.317535, Duration= 0s
+2019-02-24 17:52:27,584 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 360: Batch MSE= 664.185242, Duration= 0s
+2019-02-24 17:52:32,748 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 370: Batch MSE= 776.806519, Duration= 0s
+2019-02-24 17:52:38,151 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 380: Batch MSE= 172.368317, Duration= 0s
+2019-02-24 17:52:43,289 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 390: Batch MSE= 425.571259, Duration= 0s
+2019-02-24 17:52:48,625 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 400: Batch MSE= 452.738647, Duration= 0s
+2019-02-24 17:52:54,033 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 410: Batch MSE= 450.138977, Duration= 0s
+2019-02-24 17:52:59,425 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 420: Batch MSE= 216.114014, Duration= 0s
+2019-02-24 17:53:04,756 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 430: Batch MSE= 105.767525, Duration= 0s
+2019-02-24 17:53:10,117 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 440: Batch MSE= 335.338379, Duration= 0s
+2019-02-24 17:53:15,528 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 450: Batch MSE= 488.023834, Duration= 0s
+2019-02-24 17:53:21,021 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 460: Batch MSE= 368.298615, Duration= 0s
+2019-02-24 17:53:26,468 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 9, Iter 470: Batch MSE= 442.462494, Duration= 0s
+2019-02-24 17:53:31,013 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 9: mean MSE: 403.369904, total Duration: 255s
+2019-02-24 17:53:31,426 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [330.3301], Duration: 0s
+2019-02-24 17:53:35,607 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [557.98456], Duration: 0s
+2019-02-24 17:53:39,921 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [311.8377], Duration: 0s
+2019-02-24 17:53:44,253 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [558.2289], Duration: 0s
+2019-02-24 17:53:48,351 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [395.82626], Duration: 0s
+2019-02-24 17:53:52,574 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [601.9036], Duration: 0s
+2019-02-24 17:53:56,780 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [375.37234], Duration: 0s
+2019-02-24 17:54:00,947 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [313.94357], Duration: 0s
+2019-02-24 17:54:04,944 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [304.4983], Duration: 0s
+2019-02-24 17:54:09,137 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [593.77405], Duration: 0s
+2019-02-24 17:54:13,289 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [335.7807], Duration: 0s
+2019-02-24 17:54:17,354 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [281.87613], Duration: 0s
+2019-02-24 17:54:21,483 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [306.27725], Duration: 0s
+2019-02-24 17:54:25,778 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [164.49757], Duration: 0s
+2019-02-24 17:54:29,993 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [361.52554], Duration: 0s
+2019-02-24 17:54:34,109 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [503.88034], Duration: 0s
+2019-02-24 17:54:37,773 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 349.21600341796875, total Duration: 66s
+2019-02-24 17:54:45,619 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 0: Batch MSE= 448.362427, Duration= 0s
+2019-02-24 17:54:50,963 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 10: Batch MSE= 325.014038, Duration= 0s
+2019-02-24 17:54:56,257 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 20: Batch MSE= 141.253098, Duration= 0s
+2019-02-24 17:55:01,625 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 30: Batch MSE= 674.338989, Duration= 0s
+2019-02-24 17:55:06,978 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 40: Batch MSE= 411.988922, Duration= 0s
+2019-02-24 17:55:12,367 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 50: Batch MSE= 453.483063, Duration= 0s
+2019-02-24 17:55:17,667 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 60: Batch MSE= 366.199585, Duration= 0s
+2019-02-24 17:55:23,228 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 70: Batch MSE= 377.694366, Duration= 0s
+2019-02-24 17:55:28,578 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 80: Batch MSE= 421.691986, Duration= 0s
+2019-02-24 17:55:33,900 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 90: Batch MSE= 186.127594, Duration= 0s
+2019-02-24 17:55:39,429 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 100: Batch MSE= 172.170456, Duration= 0s
+2019-02-24 17:55:44,961 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 110: Batch MSE= 337.953156, Duration= 0s
+2019-02-24 17:55:50,238 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 120: Batch MSE= 468.752350, Duration= 0s
+2019-02-24 17:55:55,598 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 130: Batch MSE= 342.804077, Duration= 0s
+2019-02-24 17:56:00,820 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 140: Batch MSE= 479.736633, Duration= 0s
+2019-02-24 17:56:06,374 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 150: Batch MSE= 443.435120, Duration= 0s
+2019-02-24 17:56:11,672 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 160: Batch MSE= 463.316956, Duration= 0s
+2019-02-24 17:56:17,036 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 170: Batch MSE= 437.214355, Duration= 0s
+2019-02-24 17:56:22,225 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 180: Batch MSE= 751.353882, Duration= 0s
+2019-02-24 17:56:27,667 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 190: Batch MSE= 372.035919, Duration= 0s
+2019-02-24 17:56:32,850 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 200: Batch MSE= 289.576721, Duration= 0s
+2019-02-24 17:56:38,058 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 210: Batch MSE= 353.391052, Duration= 0s
+2019-02-24 17:56:43,474 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 220: Batch MSE= 307.093445, Duration= 0s
+2019-02-24 17:56:48,747 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 230: Batch MSE= 423.708221, Duration= 0s
+2019-02-24 17:56:54,077 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 240: Batch MSE= 473.829285, Duration= 0s
+2019-02-24 17:56:59,362 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 250: Batch MSE= 751.854797, Duration= 0s
+2019-02-24 17:57:05,330 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 260: Batch MSE= 509.392059, Duration= 0s
+2019-02-24 17:57:11,172 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 270: Batch MSE= 340.600159, Duration= 0s
+2019-02-24 17:57:17,180 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 280: Batch MSE= 235.619339, Duration= 0s
+2019-02-24 17:57:23,435 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 290: Batch MSE= 396.088135, Duration= 0s
+2019-02-24 17:57:29,065 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 300: Batch MSE= 167.072586, Duration= 0s
+2019-02-24 17:57:34,677 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 310: Batch MSE= 177.908081, Duration= 0s
+2019-02-24 17:57:40,574 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 320: Batch MSE= 342.778503, Duration= 0s
+2019-02-24 17:57:46,215 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 330: Batch MSE= 551.581238, Duration= 0s
+2019-02-24 17:57:52,424 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 340: Batch MSE= 365.639008, Duration= 0s
+2019-02-24 17:57:58,339 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 350: Batch MSE= 334.528931, Duration= 0s
+2019-02-24 17:58:04,235 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 360: Batch MSE= 270.634766, Duration= 0s
+2019-02-24 17:58:10,342 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 370: Batch MSE= 347.467926, Duration= 0s
+2019-02-24 17:58:16,243 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 380: Batch MSE= 925.943176, Duration= 0s
+2019-02-24 17:58:22,145 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 390: Batch MSE= 577.493042, Duration= 0s
+2019-02-24 17:58:28,014 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 400: Batch MSE= 415.103851, Duration= 0s
+2019-02-24 17:58:33,903 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 410: Batch MSE= 403.098602, Duration= 0s
+2019-02-24 17:58:39,866 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 420: Batch MSE= 371.722321, Duration= 0s
+2019-02-24 17:58:45,926 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 430: Batch MSE= 587.617432, Duration= 0s
+2019-02-24 17:58:51,612 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 440: Batch MSE= 165.478470, Duration= 0s
+2019-02-24 17:58:57,538 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 450: Batch MSE= 223.295959, Duration= 0s
+2019-02-24 17:59:03,068 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 460: Batch MSE= 218.788422, Duration= 0s
+2019-02-24 17:59:08,993 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 10, Iter 470: Batch MSE= 258.959839, Duration= 0s
+2019-02-24 17:59:14,064 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 10: mean MSE: 383.456512, total Duration: 269s
+2019-02-24 17:59:14,460 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [349.14938], Duration: 0s
+2019-02-24 17:59:19,128 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [324.21582], Duration: 0s
+2019-02-24 17:59:23,833 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [434.91165], Duration: 0s
+2019-02-24 17:59:28,063 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [260.2998], Duration: 0s
+2019-02-24 17:59:32,206 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [102.19929], Duration: 0s
+2019-02-24 17:59:36,855 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [160.64153], Duration: 0s
+2019-02-24 17:59:41,366 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [398.11224], Duration: 0s
+2019-02-24 17:59:45,899 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [300.2955], Duration: 0s
+2019-02-24 17:59:50,265 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [180.9689], Duration: 0s
+2019-02-24 17:59:54,917 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [540.0696], Duration: 0s
+2019-02-24 17:59:59,467 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [176.95174], Duration: 0s
+2019-02-24 18:00:04,299 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [231.2061], Duration: 0s
+2019-02-24 18:00:08,301 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [411.2956], Duration: 0s
+2019-02-24 18:00:12,894 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [325.8438], Duration: 0s
+2019-02-24 18:00:17,458 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [427.03494], Duration: 0s
+2019-02-24 18:00:21,894 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [469.43048], Duration: 0s
+2019-02-24 18:00:25,649 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 333.81988525390625, total Duration: 71s
+2019-02-24 18:00:33,924 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 0: Batch MSE= 467.849487, Duration= 0s
+2019-02-24 18:00:39,744 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 10: Batch MSE= 375.433350, Duration= 0s
+2019-02-24 18:00:45,423 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 20: Batch MSE= 342.902008, Duration= 0s
+2019-02-24 18:00:51,074 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 30: Batch MSE= 443.136566, Duration= 0s
+2019-02-24 18:00:56,812 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 40: Batch MSE= 153.184097, Duration= 0s
+2019-02-24 18:01:02,905 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 50: Batch MSE= 330.996063, Duration= 0s
+2019-02-24 18:01:08,879 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 60: Batch MSE= 260.000793, Duration= 0s
+2019-02-24 18:01:14,690 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 70: Batch MSE= 271.177490, Duration= 0s
+2019-02-24 18:01:20,583 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 80: Batch MSE= 112.975113, Duration= 0s
+2019-02-24 18:01:26,357 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 90: Batch MSE= 488.236786, Duration= 0s
+2019-02-24 18:01:32,483 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 100: Batch MSE= 408.172455, Duration= 0s
+2019-02-24 18:01:38,276 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 110: Batch MSE= 354.402100, Duration= 0s
+2019-02-24 18:01:44,271 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 120: Batch MSE= 388.899506, Duration= 0s
+2019-02-24 18:01:50,220 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 130: Batch MSE= 413.058990, Duration= 0s
+2019-02-24 18:01:56,039 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 140: Batch MSE= 472.394897, Duration= 0s
+2019-02-24 18:02:01,497 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 150: Batch MSE= 173.425171, Duration= 0s
+2019-02-24 18:02:07,133 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 160: Batch MSE= 152.207596, Duration= 0s
+2019-02-24 18:02:12,806 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 170: Batch MSE= 238.036972, Duration= 0s
+2019-02-24 18:02:18,543 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 180: Batch MSE= 300.576355, Duration= 0s
+2019-02-24 18:02:24,532 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 190: Batch MSE= 351.740784, Duration= 0s
+2019-02-24 18:02:30,380 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 200: Batch MSE= 379.718658, Duration= 0s
+2019-02-24 18:02:36,506 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 210: Batch MSE= 319.509552, Duration= 0s
+2019-02-24 18:02:42,485 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 220: Batch MSE= 217.048569, Duration= 0s
+2019-02-24 18:02:48,334 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 230: Batch MSE= 371.634979, Duration= 0s
+2019-02-24 18:02:54,341 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 240: Batch MSE= 253.292053, Duration= 0s
+2019-02-24 18:03:00,639 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 250: Batch MSE= 270.598969, Duration= 0s
+2019-02-24 18:03:06,885 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 260: Batch MSE= 280.934784, Duration= 0s
+2019-02-24 18:03:12,943 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 270: Batch MSE= 510.539612, Duration= 0s
+2019-02-24 18:03:18,964 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 280: Batch MSE= 218.795853, Duration= 0s
+2019-02-24 18:03:24,576 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 290: Batch MSE= 368.289124, Duration= 0s
+2019-02-24 18:03:30,604 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 300: Batch MSE= 434.658722, Duration= 0s
+2019-02-24 18:03:36,190 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 310: Batch MSE= 223.237350, Duration= 0s
+2019-02-24 18:03:42,267 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 320: Batch MSE= 240.483093, Duration= 0s
+2019-02-24 18:03:47,915 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 330: Batch MSE= 281.590759, Duration= 0s
+2019-02-24 18:03:53,861 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 340: Batch MSE= 107.388336, Duration= 0s
+2019-02-24 18:03:59,752 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 350: Batch MSE= 338.926086, Duration= 0s
+2019-02-24 18:04:05,590 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 360: Batch MSE= 604.361755, Duration= 0s
+2019-02-24 18:04:11,653 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 370: Batch MSE= 194.393356, Duration= 0s
+2019-02-24 18:04:17,453 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 380: Batch MSE= 296.418762, Duration= 0s
+2019-02-24 18:04:23,586 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 390: Batch MSE= 317.852661, Duration= 0s
+2019-02-24 18:04:29,581 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 400: Batch MSE= 345.406921, Duration= 0s
+2019-02-24 18:04:35,367 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 410: Batch MSE= 75.100967, Duration= 0s
+2019-02-24 18:04:41,325 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 420: Batch MSE= 357.545807, Duration= 0s
+2019-02-24 18:04:47,437 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 430: Batch MSE= 336.132172, Duration= 0s
+2019-02-24 18:04:53,338 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 440: Batch MSE= 234.656631, Duration= 0s
+2019-02-24 18:04:58,902 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 450: Batch MSE= 307.888519, Duration= 0s
+2019-02-24 18:05:04,487 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 460: Batch MSE= 201.743500, Duration= 0s
+2019-02-24 18:05:10,134 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 11, Iter 470: Batch MSE= 230.050446, Duration= 0s
+2019-02-24 18:05:15,295 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 11: mean MSE: 368.962555, total Duration: 282s
+2019-02-24 18:05:15,683 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [417.75146], Duration: 0s
+2019-02-24 18:05:20,193 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [201.25629], Duration: 0s
+2019-02-24 18:05:24,700 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [403.066], Duration: 0s
+2019-02-24 18:05:29,028 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [362.63226], Duration: 0s
+2019-02-24 18:05:33,267 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [307.56918], Duration: 0s
+2019-02-24 18:05:37,963 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [207.43079], Duration: 0s
+2019-02-24 18:05:42,684 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [245.41762], Duration: 0s
+2019-02-24 18:05:47,187 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [272.9126], Duration: 0s
+2019-02-24 18:05:51,462 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [241.97173], Duration: 0s
+2019-02-24 18:05:56,314 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [238.56451], Duration: 0s
+2019-02-24 18:06:01,021 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [537.2955], Duration: 0s
+2019-02-24 18:06:05,638 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [517.1839], Duration: 0s
+2019-02-24 18:06:09,512 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [316.75787], Duration: 0s
+2019-02-24 18:06:14,146 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [400.9871], Duration: 0s
+2019-02-24 18:06:18,880 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [290.4866], Duration: 0s
+2019-02-24 18:06:23,419 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [397.804], Duration: 0s
+2019-02-24 18:06:26,913 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 323.3223876953125, total Duration: 71s
+2019-02-24 18:06:34,351 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 0: Batch MSE= 337.425751, Duration= 0s
+2019-02-24 18:06:39,930 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 10: Batch MSE= 108.126236, Duration= 0s
+2019-02-24 18:06:45,710 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 20: Batch MSE= 542.632874, Duration= 0s
+2019-02-24 18:06:51,726 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 30: Batch MSE= 578.629700, Duration= 0s
+2019-02-24 18:06:57,883 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 40: Batch MSE= 687.130310, Duration= 0s
+2019-02-24 18:07:03,832 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 50: Batch MSE= 378.618286, Duration= 0s
+2019-02-24 18:07:09,933 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 60: Batch MSE= 212.952118, Duration= 0s
+2019-02-24 18:07:15,783 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 70: Batch MSE= 491.217529, Duration= 0s
+2019-02-24 18:07:21,724 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 80: Batch MSE= 510.543121, Duration= 0s
+2019-02-24 18:07:27,875 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 90: Batch MSE= 406.164093, Duration= 0s
+2019-02-24 18:07:33,961 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 100: Batch MSE= 164.669632, Duration= 0s
+2019-02-24 18:07:40,082 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 110: Batch MSE= 368.428101, Duration= 0s
+2019-02-24 18:07:46,197 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 120: Batch MSE= 164.964844, Duration= 0s
+2019-02-24 18:07:51,833 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 130: Batch MSE= 373.269562, Duration= 0s
+2019-02-24 18:07:57,478 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 140: Batch MSE= 292.382538, Duration= 0s
+2019-02-24 18:08:03,287 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 150: Batch MSE= 657.249817, Duration= 0s
+2019-02-24 18:08:09,153 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 160: Batch MSE= 408.080536, Duration= 0s
+2019-02-24 18:08:15,104 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 170: Batch MSE= 464.801544, Duration= 0s
+2019-02-24 18:08:21,049 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 180: Batch MSE= 762.260071, Duration= 0s
+2019-02-24 18:08:27,018 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 190: Batch MSE= 362.311584, Duration= 0s
+2019-02-24 18:08:33,008 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 200: Batch MSE= 315.474121, Duration= 0s
+2019-02-24 18:08:39,120 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 210: Batch MSE= 253.963379, Duration= 0s
+2019-02-24 18:08:45,067 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 220: Batch MSE= 540.329712, Duration= 0s
+2019-02-24 18:08:51,061 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 230: Batch MSE= 459.960693, Duration= 0s
+2019-02-24 18:08:57,154 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 240: Batch MSE= 287.603973, Duration= 0s
+2019-02-24 18:09:02,911 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 250: Batch MSE= 361.329559, Duration= 0s
+2019-02-24 18:09:08,974 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 260: Batch MSE= 664.965271, Duration= 0s
+2019-02-24 18:09:15,300 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 270: Batch MSE= 168.867111, Duration= 0s
+2019-02-24 18:09:21,145 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 280: Batch MSE= 149.311005, Duration= 0s
+2019-02-24 18:09:26,908 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 290: Batch MSE= 516.174622, Duration= 0s
+2019-02-24 18:09:32,593 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 300: Batch MSE= 438.138580, Duration= 0s
+2019-02-24 18:09:38,243 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 310: Batch MSE= 253.419464, Duration= 0s
+2019-02-24 18:09:44,216 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 320: Batch MSE= 250.589325, Duration= 0s
+2019-02-24 18:09:50,423 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 330: Batch MSE= 269.212128, Duration= 0s
+2019-02-24 18:09:56,277 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 340: Batch MSE= 375.844452, Duration= 0s
+2019-02-24 18:10:02,147 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 350: Batch MSE= 228.979782, Duration= 0s
+2019-02-24 18:10:08,177 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 360: Batch MSE= 400.367737, Duration= 0s
+2019-02-24 18:10:14,002 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 370: Batch MSE= 393.479187, Duration= 0s
+2019-02-24 18:10:20,089 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 380: Batch MSE= 258.091827, Duration= 0s
+2019-02-24 18:10:25,865 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 390: Batch MSE= 334.226227, Duration= 0s
+2019-02-24 18:10:31,832 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 400: Batch MSE= 510.233276, Duration= 0s
+2019-02-24 18:10:37,797 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 410: Batch MSE= 40.978123, Duration= 0s
+2019-02-24 18:10:43,997 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 420: Batch MSE= 330.827118, Duration= 0s
+2019-02-24 18:10:50,034 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 430: Batch MSE= 276.727875, Duration= 0s
+2019-02-24 18:10:55,525 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 440: Batch MSE= 337.316620, Duration= 0s
+2019-02-24 18:11:01,201 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 450: Batch MSE= 168.934921, Duration= 0s
+2019-02-24 18:11:07,015 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 460: Batch MSE= 247.058029, Duration= 0s
+2019-02-24 18:11:13,139 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 12, Iter 470: Batch MSE= 427.000427, Duration= 0s
+2019-02-24 18:11:18,130 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 12: mean MSE: 354.546509, total Duration: 284s
+2019-02-24 18:11:18,512 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [318.88773], Duration: 0s
+2019-02-24 18:11:23,080 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [449.27307], Duration: 0s
+2019-02-24 18:11:27,921 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [277.40918], Duration: 0s
+2019-02-24 18:11:31,894 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [446.4503], Duration: 0s
+2019-02-24 18:11:36,392 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [186.06963], Duration: 0s
+2019-02-24 18:11:40,943 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [374.59387], Duration: 0s
+2019-02-24 18:11:45,794 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [407.97516], Duration: 0s
+2019-02-24 18:11:49,606 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [117.62097], Duration: 0s
+2019-02-24 18:11:54,313 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [306.21783], Duration: 0s
+2019-02-24 18:11:59,058 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [425.66837], Duration: 0s
+2019-02-24 18:12:03,707 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [338.66623], Duration: 0s
+2019-02-24 18:12:07,605 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [151.80254], Duration: 0s
+2019-02-24 18:12:12,115 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [356.52084], Duration: 0s
+2019-02-24 18:12:16,650 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [71.24135], Duration: 0s
+2019-02-24 18:12:21,277 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [208.62454], Duration: 0s
+2019-02-24 18:12:25,162 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [407.3423], Duration: 0s
+2019-02-24 18:12:29,542 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 313.57794189453125, total Duration: 71s
+2019-02-24 18:12:41,288 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 0: Batch MSE= 60.906925, Duration= 0s
+2019-02-24 18:12:47,343 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 10: Batch MSE= 352.738251, Duration= 0s
+2019-02-24 18:12:53,291 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 20: Batch MSE= 311.262115, Duration= 0s
+2019-02-24 18:12:59,436 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 30: Batch MSE= 514.739441, Duration= 0s
+2019-02-24 18:13:05,428 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 40: Batch MSE= 301.575592, Duration= 0s
+2019-02-24 18:13:11,022 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 50: Batch MSE= 535.091125, Duration= 0s
+2019-02-24 18:13:16,647 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 60: Batch MSE= 270.912109, Duration= 0s
+2019-02-24 18:13:22,727 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 70: Batch MSE= 352.730072, Duration= 0s
+2019-02-24 18:13:28,401 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 80: Batch MSE= 377.456207, Duration= 0s
+2019-02-24 18:13:34,630 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 90: Batch MSE= 277.473328, Duration= 0s
+2019-02-24 18:13:40,394 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 100: Batch MSE= 586.456482, Duration= 0s
+2019-02-24 18:13:46,462 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 110: Batch MSE= 256.675171, Duration= 0s
+2019-02-24 18:13:52,362 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 120: Batch MSE= 323.330231, Duration= 0s
+2019-02-24 18:13:58,349 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 130: Batch MSE= 45.283787, Duration= 0s
+2019-02-24 18:14:04,115 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 140: Batch MSE= 466.216827, Duration= 0s
+2019-02-24 18:14:09,946 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 150: Batch MSE= 358.321777, Duration= 0s
+2019-02-24 18:14:16,051 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 160: Batch MSE= 306.779785, Duration= 0s
+2019-02-24 18:14:22,020 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 170: Batch MSE= 241.891846, Duration= 0s
+2019-02-24 18:14:27,854 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 180: Batch MSE= 431.988922, Duration= 0s
+2019-02-24 18:14:33,558 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 190: Batch MSE= 446.478790, Duration= 0s
+2019-02-24 18:14:39,428 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 200: Batch MSE= 267.748779, Duration= 0s
+2019-02-24 18:14:44,860 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 210: Batch MSE= 236.122772, Duration= 0s
+2019-02-24 18:14:50,641 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 220: Batch MSE= 498.894257, Duration= 0s
+2019-02-24 18:14:56,513 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 230: Batch MSE= 381.445465, Duration= 0s
+2019-02-24 18:15:02,595 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 240: Batch MSE= 242.848236, Duration= 0s
+2019-02-24 18:15:08,376 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 250: Batch MSE= 164.207397, Duration= 0s
+2019-02-24 18:15:14,651 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 260: Batch MSE= 161.456879, Duration= 0s
+2019-02-24 18:15:20,508 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 270: Batch MSE= 256.425385, Duration= 0s
+2019-02-24 18:15:26,438 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 280: Batch MSE= 569.452942, Duration= 0s
+2019-02-24 18:15:32,481 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 290: Batch MSE= 633.100403, Duration= 0s
+2019-02-24 18:15:38,260 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 300: Batch MSE= 338.850037, Duration= 0s
+2019-02-24 18:15:44,256 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 310: Batch MSE= 244.882050, Duration= 0s
+2019-02-24 18:15:49,984 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 320: Batch MSE= 202.273407, Duration= 0s
+2019-02-24 18:15:55,604 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 330: Batch MSE= 254.215240, Duration= 0s
+2019-02-24 18:16:01,485 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 340: Batch MSE= 305.230377, Duration= 0s
+2019-02-24 18:16:07,376 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 350: Batch MSE= 433.648499, Duration= 0s
+2019-02-24 18:16:13,377 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 360: Batch MSE= 334.328186, Duration= 0s
+2019-02-24 18:16:19,324 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 370: Batch MSE= 596.839661, Duration= 0s
+2019-02-24 18:16:25,286 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 380: Batch MSE= 287.399658, Duration= 0s
+2019-02-24 18:16:31,214 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 390: Batch MSE= 411.247528, Duration= 0s
+2019-02-24 18:16:37,153 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 400: Batch MSE= 318.704376, Duration= 0s
+2019-02-24 18:16:43,324 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 410: Batch MSE= 240.391525, Duration= 0s
+2019-02-24 18:16:49,246 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 420: Batch MSE= 324.331909, Duration= 0s
+2019-02-24 18:16:55,337 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 430: Batch MSE= 247.620255, Duration= 0s
+2019-02-24 18:17:01,157 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 440: Batch MSE= 332.401794, Duration= 0s
+2019-02-24 18:17:07,188 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 450: Batch MSE= 468.364929, Duration= 0s
+2019-02-24 18:17:13,267 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 460: Batch MSE= 358.712158, Duration= 0s
+2019-02-24 18:17:19,014 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 13, Iter 470: Batch MSE= 242.778732, Duration= 0s
+2019-02-24 18:17:23,575 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 13: mean MSE: 349.798004, total Duration: 282s
+2019-02-24 18:17:24,091 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [498.2565], Duration: 0s
+2019-02-24 18:17:28,705 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [318.25473], Duration: 0s
+2019-02-24 18:17:33,362 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [259.38953], Duration: 0s
+2019-02-24 18:17:38,143 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [112.56992], Duration: 0s
+2019-02-24 18:17:42,372 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [201.88745], Duration: 0s
+2019-02-24 18:17:46,691 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [245.27403], Duration: 0s
+2019-02-24 18:17:51,319 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [475.86646], Duration: 0s
+2019-02-24 18:17:55,929 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [127.52651], Duration: 0s
+2019-02-24 18:18:00,256 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [356.87308], Duration: 0s
+2019-02-24 18:18:04,622 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [74.821434], Duration: 0s
+2019-02-24 18:18:09,359 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [146.00667], Duration: 0s
+2019-02-24 18:18:13,977 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [386.23737], Duration: 0s
+2019-02-24 18:18:18,575 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [470.76178], Duration: 0s
+2019-02-24 18:18:22,777 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [495.56998], Duration: 0s
+2019-02-24 18:18:27,371 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [407.64294], Duration: 0s
+2019-02-24 18:18:32,136 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [293.37076], Duration: 0s
+2019-02-24 18:18:35,618 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 315.88714599609375, total Duration: 72s
+2019-02-24 18:18:36,271 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 0: Batch MSE= 262.215912, Duration= 0s
+2019-02-24 18:18:41,982 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 10: Batch MSE= 169.121994, Duration= 0s
+2019-02-24 18:18:47,620 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 20: Batch MSE= 394.153931, Duration= 0s
+2019-02-24 18:18:53,463 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 30: Batch MSE= 427.801422, Duration= 0s
+2019-02-24 18:18:59,246 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 40: Batch MSE= 542.550354, Duration= 0s
+2019-02-24 18:19:05,185 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 50: Batch MSE= 344.065887, Duration= 0s
+2019-02-24 18:19:11,181 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 60: Batch MSE= 383.597137, Duration= 0s
+2019-02-24 18:19:17,217 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 70: Batch MSE= 609.439331, Duration= 0s
+2019-02-24 18:19:23,230 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 80: Batch MSE= 467.276550, Duration= 0s
+2019-02-24 18:19:29,153 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 90: Batch MSE= 464.020233, Duration= 0s
+2019-02-24 18:19:35,081 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 100: Batch MSE= 802.216614, Duration= 0s
+2019-02-24 18:19:41,074 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 110: Batch MSE= 357.009094, Duration= 0s
+2019-02-24 18:19:46,973 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 120: Batch MSE= 269.565125, Duration= 0s
+2019-02-24 18:19:52,590 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 130: Batch MSE= 347.296478, Duration= 0s
+2019-02-24 18:19:58,118 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 140: Batch MSE= 412.084045, Duration= 0s
+2019-02-24 18:20:03,807 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 150: Batch MSE= 440.969635, Duration= 0s
+2019-02-24 18:20:09,791 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 160: Batch MSE= 301.520905, Duration= 0s
+2019-02-24 18:20:15,855 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 170: Batch MSE= 292.567169, Duration= 0s
+2019-02-24 18:20:21,883 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 180: Batch MSE= 508.555878, Duration= 0s
+2019-02-24 18:20:27,786 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 190: Batch MSE= 159.689240, Duration= 0s
+2019-02-24 18:20:33,637 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 200: Batch MSE= 262.167023, Duration= 0s
+2019-02-24 18:20:39,700 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 210: Batch MSE= 248.063049, Duration= 0s
+2019-02-24 18:20:45,735 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 220: Batch MSE= 836.497559, Duration= 0s
+2019-02-24 18:20:51,790 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 230: Batch MSE= 349.964294, Duration= 0s
+2019-02-24 18:20:57,765 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 240: Batch MSE= 184.296143, Duration= 0s
+2019-02-24 18:21:03,680 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 250: Batch MSE= 190.433075, Duration= 0s
+2019-02-24 18:21:09,604 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 260: Batch MSE= 366.871216, Duration= 0s
+2019-02-24 18:21:15,228 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 270: Batch MSE= 444.824005, Duration= 0s
+2019-02-24 18:21:20,790 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 280: Batch MSE= 371.359314, Duration= 0s
+2019-02-24 18:21:26,559 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 290: Batch MSE= 359.042267, Duration= 0s
+2019-02-24 18:21:32,356 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 300: Batch MSE= 473.348450, Duration= 0s
+2019-02-24 18:21:38,151 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 310: Batch MSE= 639.943359, Duration= 0s
+2019-02-24 18:21:44,214 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 320: Batch MSE= 174.621140, Duration= 0s
+2019-02-24 18:21:50,152 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 330: Batch MSE= 339.365692, Duration= 0s
+2019-02-24 18:21:56,077 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 340: Batch MSE= 243.378983, Duration= 0s
+2019-02-24 18:22:01,916 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 350: Batch MSE= 281.115662, Duration= 0s
+2019-02-24 18:22:08,232 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 360: Batch MSE= 205.483627, Duration= 0s
+2019-02-24 18:22:14,563 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 370: Batch MSE= 258.669220, Duration= 0s
+2019-02-24 18:22:20,778 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 380: Batch MSE= 644.854553, Duration= 0s
+2019-02-24 18:22:26,668 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 390: Batch MSE= 436.406799, Duration= 0s
+2019-02-24 18:22:32,670 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 400: Batch MSE= 225.360901, Duration= 0s
+2019-02-24 18:22:38,252 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 410: Batch MSE= 405.105530, Duration= 0s
+2019-02-24 18:22:44,028 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 420: Batch MSE= 350.478027, Duration= 0s
+2019-02-24 18:22:49,595 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 430: Batch MSE= 319.852264, Duration= 0s
+2019-02-24 18:22:55,603 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 440: Batch MSE= 546.261353, Duration= 0s
+2019-02-24 18:23:01,641 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 450: Batch MSE= 475.316620, Duration= 0s
+2019-02-24 18:23:07,532 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 460: Batch MSE= 213.333145, Duration= 0s
+2019-02-24 18:23:13,739 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 14, Iter 470: Batch MSE= 384.789337, Duration= 0s
+2019-02-24 18:23:18,787 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 14: mean MSE: 350.707275, total Duration: 283s
+2019-02-24 18:23:19,162 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [169.68817], Duration: 0s
+2019-02-24 18:23:23,817 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [120.436554], Duration: 0s
+2019-02-24 18:23:28,215 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [541.23737], Duration: 0s
+2019-02-24 18:23:32,414 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [165.216], Duration: 0s
+2019-02-24 18:23:37,104 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [350.2922], Duration: 0s
+2019-02-24 18:23:41,602 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [373.57233], Duration: 0s
+2019-02-24 18:23:45,989 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [458.9891], Duration: 0s
+2019-02-24 18:23:50,138 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [268.06305], Duration: 0s
+2019-02-24 18:23:54,846 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [371.19543], Duration: 0s
+2019-02-24 18:23:59,339 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [463.9928], Duration: 0s
+2019-02-24 18:24:03,779 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [370.1027], Duration: 0s
+2019-02-24 18:24:07,828 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [187.76125], Duration: 0s
+2019-02-24 18:24:12,300 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [289.52142], Duration: 0s
+2019-02-24 18:24:16,927 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [271.20746], Duration: 0s
+2019-02-24 18:24:21,427 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [233.46394], Duration: 0s
+2019-02-24 18:24:25,669 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [406.3256], Duration: 0s
+2019-02-24 18:24:29,758 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 311.2527160644531, total Duration: 70s
+2019-02-24 18:24:36,985 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 0: Batch MSE= 590.019409, Duration= 0s
+2019-02-24 18:24:42,885 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 10: Batch MSE= 200.566910, Duration= 0s
+2019-02-24 18:24:48,804 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 20: Batch MSE= 408.224243, Duration= 0s
+2019-02-24 18:24:54,660 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 30: Batch MSE= 415.814880, Duration= 0s
+2019-02-24 18:25:00,547 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 40: Batch MSE= 409.786041, Duration= 0s
+2019-02-24 18:25:06,672 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 50: Batch MSE= 137.042633, Duration= 0s
+2019-02-24 18:25:12,671 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 60: Batch MSE= 518.105103, Duration= 0s
+2019-02-24 18:25:18,578 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 70: Batch MSE= 657.068237, Duration= 0s
+2019-02-24 18:25:24,259 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 80: Batch MSE= 303.949402, Duration= 0s
+2019-02-24 18:25:30,057 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 90: Batch MSE= 344.305176, Duration= 0s
+2019-02-24 18:25:35,534 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 100: Batch MSE= 332.873077, Duration= 0s
+2019-02-24 18:25:41,158 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 110: Batch MSE= 393.044128, Duration= 0s
+2019-02-24 18:25:47,160 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 120: Batch MSE= 203.465210, Duration= 0s
+2019-02-24 18:25:53,119 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 130: Batch MSE= 576.658325, Duration= 0s
+2019-02-24 18:25:58,973 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 140: Batch MSE= 469.117706, Duration= 0s
+2019-02-24 18:26:05,003 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 150: Batch MSE= 399.503784, Duration= 0s
+2019-02-24 18:26:10,990 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 160: Batch MSE= 170.963837, Duration= 0s
+2019-02-24 18:26:17,068 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 170: Batch MSE= 272.625580, Duration= 0s
+2019-02-24 18:26:22,879 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 180: Batch MSE= 284.919159, Duration= 0s
+2019-02-24 18:26:28,949 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 190: Batch MSE= 511.805634, Duration= 0s
+2019-02-24 18:26:34,794 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 200: Batch MSE= 82.540390, Duration= 0s
+2019-02-24 18:26:40,345 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 210: Batch MSE= 480.943878, Duration= 0s
+2019-02-24 18:26:45,983 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 220: Batch MSE= 230.732620, Duration= 0s
+2019-02-24 18:26:51,927 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 230: Batch MSE= 356.330505, Duration= 0s
+2019-02-24 18:26:57,748 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 240: Batch MSE= 327.115051, Duration= 0s
+2019-02-24 18:27:03,724 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 250: Batch MSE= 498.102966, Duration= 0s
+2019-02-24 18:27:09,611 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 260: Batch MSE= 517.347900, Duration= 0s
+2019-02-24 18:27:15,531 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 270: Batch MSE= 692.483398, Duration= 0s
+2019-02-24 18:27:21,412 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 280: Batch MSE= 347.241394, Duration= 0s
+2019-02-24 18:27:27,272 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 290: Batch MSE= 222.246658, Duration= 0s
+2019-02-24 18:27:33,357 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 300: Batch MSE= 260.228699, Duration= 0s
+2019-02-24 18:27:39,312 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 310: Batch MSE= 330.809998, Duration= 0s
+2019-02-24 18:27:45,346 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 320: Batch MSE= 164.407639, Duration= 0s
+2019-02-24 18:27:51,446 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 330: Batch MSE= 245.374664, Duration= 0s
+2019-02-24 18:27:57,475 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 340: Batch MSE= 275.615295, Duration= 0s
+2019-02-24 18:28:03,066 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 350: Batch MSE= 348.430237, Duration= 0s
+2019-02-24 18:28:08,796 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 360: Batch MSE= 373.297638, Duration= 0s
+2019-02-24 18:28:14,558 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 370: Batch MSE= 166.192825, Duration= 0s
+2019-02-24 18:28:20,402 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 380: Batch MSE= 149.550934, Duration= 0s
+2019-02-24 18:28:26,170 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 390: Batch MSE= 316.592285, Duration= 0s
+2019-02-24 18:28:32,212 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 400: Batch MSE= 438.223999, Duration= 0s
+2019-02-24 18:28:37,971 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 410: Batch MSE= 305.032837, Duration= 0s
+2019-02-24 18:28:43,902 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 420: Batch MSE= 401.326538, Duration= 0s
+2019-02-24 18:28:49,843 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 430: Batch MSE= 202.111969, Duration= 0s
+2019-02-24 18:28:55,769 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 440: Batch MSE= 425.279572, Duration= 0s
+2019-02-24 18:29:01,834 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 450: Batch MSE= 546.065369, Duration= 0s
+2019-02-24 18:29:07,657 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 460: Batch MSE= 433.287598, Duration= 0s
+2019-02-24 18:29:13,523 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 15, Iter 470: Batch MSE= 175.178680, Duration= 0s
+2019-02-24 18:29:17,856 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 15: mean MSE: 349.422180, total Duration: 281s
+2019-02-24 18:29:18,348 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [353.32916], Duration: 0s
+2019-02-24 18:29:22,749 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [228.64409], Duration: 0s
+2019-02-24 18:29:27,320 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [382.06158], Duration: 0s
+2019-02-24 18:29:32,010 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [310.35883], Duration: 0s
+2019-02-24 18:29:36,236 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [61.324165], Duration: 0s
+2019-02-24 18:29:40,923 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [352.3612], Duration: 0s
+2019-02-24 18:29:45,647 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [426.1427], Duration: 0s
+2019-02-24 18:29:50,152 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [205.42542], Duration: 0s
+2019-02-24 18:29:54,454 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [282.69], Duration: 0s
+2019-02-24 18:29:58,758 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [347.38477], Duration: 0s
+2019-02-24 18:30:03,294 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [315.573], Duration: 0s
+2019-02-24 18:30:08,016 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [199.18158], Duration: 0s
+2019-02-24 18:30:12,671 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [527.60266], Duration: 0s
+2019-02-24 18:30:16,991 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [335.60464], Duration: 0s
+2019-02-24 18:30:21,508 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [400.96115], Duration: 0s
+2019-02-24 18:30:26,111 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [413.42407], Duration: 0s
+2019-02-24 18:30:29,674 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 307.0987548828125, total Duration: 71s
+2019-02-24 18:30:36,951 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 0: Batch MSE= 194.752563, Duration= 0s
+2019-02-24 18:30:42,461 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 10: Batch MSE= 283.261566, Duration= 0s
+2019-02-24 18:30:48,029 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 20: Batch MSE= 394.251160, Duration= 0s
+2019-02-24 18:30:53,899 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 30: Batch MSE= 602.811157, Duration= 0s
+2019-02-24 18:30:59,757 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 40: Batch MSE= 381.890778, Duration= 0s
+2019-02-24 18:31:05,614 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 50: Batch MSE= 341.832520, Duration= 0s
+2019-02-24 18:31:11,485 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 60: Batch MSE= 299.771362, Duration= 0s
+2019-02-24 18:31:17,383 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 70: Batch MSE= 388.591431, Duration= 0s
+2019-02-24 18:31:23,236 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 80: Batch MSE= 360.859741, Duration= 0s
+2019-02-24 18:31:29,122 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 90: Batch MSE= 400.477386, Duration= 0s
+2019-02-24 18:31:34,975 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 100: Batch MSE= 535.204712, Duration= 0s
+2019-02-24 18:31:40,972 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 110: Batch MSE= 341.359589, Duration= 0s
+2019-02-24 18:31:47,065 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 120: Batch MSE= 335.519348, Duration= 0s
+2019-02-24 18:31:53,167 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 130: Batch MSE= 387.769379, Duration= 0s
+2019-02-24 18:31:59,152 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 140: Batch MSE= 210.760696, Duration= 0s
+2019-02-24 18:32:04,847 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 150: Batch MSE= 210.447647, Duration= 0s
+2019-02-24 18:32:10,511 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 160: Batch MSE= 276.751740, Duration= 0s
+2019-02-24 18:32:16,060 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 170: Batch MSE= 235.279114, Duration= 0s
+2019-02-24 18:32:21,962 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 180: Batch MSE= 319.817322, Duration= 0s
+2019-02-24 18:32:27,853 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 190: Batch MSE= 436.964233, Duration= 0s
+2019-02-24 18:32:33,956 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 200: Batch MSE= 659.664795, Duration= 0s
+2019-02-24 18:32:39,822 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 210: Batch MSE= 359.345062, Duration= 0s
+2019-02-24 18:32:45,533 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 220: Batch MSE= 306.495544, Duration= 0s
+2019-02-24 18:32:51,510 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 230: Batch MSE= 257.939911, Duration= 0s
+2019-02-24 18:32:57,398 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 240: Batch MSE= 291.490295, Duration= 0s
+2019-02-24 18:33:03,284 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 250: Batch MSE= 151.384018, Duration= 0s
+2019-02-24 18:33:09,243 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 260: Batch MSE= 414.095520, Duration= 0s
+2019-02-24 18:33:15,235 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 270: Batch MSE= 227.080383, Duration= 0s
+2019-02-24 18:33:21,079 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 280: Batch MSE= 401.059387, Duration= 0s
+2019-02-24 18:33:27,100 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 290: Batch MSE= 388.069672, Duration= 0s
+2019-02-24 18:33:33,238 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 300: Batch MSE= 373.847351, Duration= 0s
+2019-02-24 18:33:38,908 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 310: Batch MSE= 222.554504, Duration= 0s
+2019-02-24 18:33:44,525 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 320: Batch MSE= 161.506256, Duration= 0s
+2019-02-24 18:33:50,328 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 330: Batch MSE= 466.788849, Duration= 0s
+2019-02-24 18:33:56,530 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 340: Batch MSE= 464.488220, Duration= 0s
+2019-02-24 18:34:02,406 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 350: Batch MSE= 242.531082, Duration= 0s
+2019-02-24 18:34:08,393 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 360: Batch MSE= 336.499390, Duration= 0s
+2019-02-24 18:34:14,226 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 370: Batch MSE= 259.772430, Duration= 0s
+2019-02-24 18:34:20,088 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 380: Batch MSE= 672.116760, Duration= 0s
+2019-02-24 18:34:25,904 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 390: Batch MSE= 715.606934, Duration= 0s
+2019-02-24 18:34:31,680 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 400: Batch MSE= 265.298645, Duration= 0s
+2019-02-24 18:34:37,570 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 410: Batch MSE= 130.958557, Duration= 0s
+2019-02-24 18:34:43,310 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 420: Batch MSE= 343.339813, Duration= 0s
+2019-02-24 18:34:49,207 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 430: Batch MSE= 258.809967, Duration= 0s
+2019-02-24 18:34:55,195 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 440: Batch MSE= 489.669373, Duration= 0s
+2019-02-24 18:35:00,797 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 450: Batch MSE= 195.409103, Duration= 0s
+2019-02-24 18:35:06,284 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 460: Batch MSE= 345.573517, Duration= 0s
+2019-02-24 18:35:12,132 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 16, Iter 470: Batch MSE= 258.553314, Duration= 0s
+2019-02-24 18:35:17,395 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 16: mean MSE: 339.444763, total Duration: 281s
+2019-02-24 18:35:17,796 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [110.99553], Duration: 0s
+2019-02-24 18:35:22,428 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [281.92886], Duration: 0s
+2019-02-24 18:35:27,024 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [231.91342], Duration: 0s
+2019-02-24 18:35:31,109 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [408.08917], Duration: 0s
+2019-02-24 18:35:35,671 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [320.50174], Duration: 0s
+2019-02-24 18:35:40,163 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [337.4903], Duration: 0s
+2019-02-24 18:35:44,882 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [212.60277], Duration: 0s
+2019-02-24 18:35:48,855 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [236.12187], Duration: 0s
+2019-02-24 18:35:53,553 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [258.76712], Duration: 0s
+2019-02-24 18:35:58,115 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [124.65559], Duration: 0s
+2019-02-24 18:36:02,885 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [447.96393], Duration: 0s
+2019-02-24 18:36:06,740 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [232.79726], Duration: 0s
+2019-02-24 18:36:11,552 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [276.79926], Duration: 0s
+2019-02-24 18:36:16,276 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [133.2603], Duration: 0s
+2019-02-24 18:36:21,134 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [215.64484], Duration: 0s
+2019-02-24 18:36:25,177 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [432.3155], Duration: 0s
+2019-02-24 18:36:29,144 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 297.1358947753906, total Duration: 71s
+2019-02-24 18:36:36,850 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 0: Batch MSE= 285.608276, Duration= 0s
+2019-02-24 18:36:42,753 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 10: Batch MSE= 297.674866, Duration= 0s
+2019-02-24 18:36:48,812 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 20: Batch MSE= 466.668762, Duration= 0s
+2019-02-24 18:36:54,773 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 30: Batch MSE= 609.600159, Duration= 0s
+2019-02-24 18:37:00,767 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 40: Batch MSE= 272.424713, Duration= 0s
+2019-02-24 18:37:06,955 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 50: Batch MSE= 165.971573, Duration= 0s
+2019-02-24 18:37:12,859 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 60: Batch MSE= 305.521301, Duration= 0s
+2019-02-24 18:37:18,874 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 70: Batch MSE= 82.226349, Duration= 0s
+2019-02-24 18:37:24,796 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 80: Batch MSE= 620.713684, Duration= 0s
+2019-02-24 18:37:30,578 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 90: Batch MSE= 215.288742, Duration= 0s
+2019-02-24 18:37:36,707 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 100: Batch MSE= 378.541351, Duration= 0s
+2019-02-24 18:37:42,750 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 110: Batch MSE= 80.396080, Duration= 0s
+2019-02-24 18:37:48,686 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 120: Batch MSE= 416.597473, Duration= 0s
+2019-02-24 18:37:54,430 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 130: Batch MSE= 143.108353, Duration= 0s
+2019-02-24 18:38:00,379 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 140: Batch MSE= 245.687622, Duration= 0s
+2019-02-24 18:38:05,978 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 150: Batch MSE= 433.423492, Duration= 0s
+2019-02-24 18:38:11,945 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 160: Batch MSE= 341.721069, Duration= 0s
+2019-02-24 18:38:17,706 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 170: Batch MSE= 372.720886, Duration= 0s
+2019-02-24 18:38:23,587 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 180: Batch MSE= 545.826660, Duration= 0s
+2019-02-24 18:38:29,408 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 190: Batch MSE= 403.837067, Duration= 0s
+2019-02-24 18:38:35,488 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 200: Batch MSE= 130.123672, Duration= 0s
+2019-02-24 18:38:41,362 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 210: Batch MSE= 425.347778, Duration= 0s
+2019-02-24 18:38:47,438 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 220: Batch MSE= 187.345612, Duration= 0s
+2019-02-24 18:38:53,476 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 230: Batch MSE= 280.282562, Duration= 0s
+2019-02-24 18:38:59,281 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 240: Batch MSE= 413.895294, Duration= 0s
+2019-02-24 18:39:05,144 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 250: Batch MSE= 225.992538, Duration= 0s
+2019-02-24 18:39:11,048 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 260: Batch MSE= 725.116943, Duration= 0s
+2019-02-24 18:39:17,276 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 270: Batch MSE= 280.224243, Duration= 0s
+2019-02-24 18:39:22,797 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 280: Batch MSE= 218.883438, Duration= 0s
+2019-02-24 18:39:28,662 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 290: Batch MSE= 326.929077, Duration= 0s
+2019-02-24 18:39:34,306 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 300: Batch MSE= 519.143372, Duration= 0s
+2019-02-24 18:39:39,932 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 310: Batch MSE= 183.167282, Duration= 0s
+2019-02-24 18:39:45,773 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 320: Batch MSE= 168.989792, Duration= 0s
+2019-02-24 18:39:51,727 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 330: Batch MSE= 257.828369, Duration= 0s
+2019-02-24 18:39:57,598 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 340: Batch MSE= 261.658325, Duration= 0s
+2019-02-24 18:40:03,507 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 350: Batch MSE= 263.538116, Duration= 0s
+2019-02-24 18:40:09,443 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 360: Batch MSE= 323.357300, Duration= 0s
+2019-02-24 18:40:15,364 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 370: Batch MSE= 421.076599, Duration= 0s
+2019-02-24 18:40:21,331 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 380: Batch MSE= 311.051819, Duration= 0s
+2019-02-24 18:40:27,182 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 390: Batch MSE= 307.047516, Duration= 0s
+2019-02-24 18:40:33,284 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 400: Batch MSE= 192.157776, Duration= 0s
+2019-02-24 18:40:39,351 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 410: Batch MSE= 266.212982, Duration= 0s
+2019-02-24 18:40:45,471 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 420: Batch MSE= 190.218903, Duration= 0s
+2019-02-24 18:40:51,312 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 430: Batch MSE= 210.397812, Duration= 0s
+2019-02-24 18:40:56,854 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 440: Batch MSE= 128.967178, Duration= 0s
+2019-02-24 18:41:02,303 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 450: Batch MSE= 275.908234, Duration= 0s
+2019-02-24 18:41:07,968 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 460: Batch MSE= 227.355728, Duration= 0s
+2019-02-24 18:41:13,694 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 17, Iter 470: Batch MSE= 352.857727, Duration= 0s
+2019-02-24 18:41:18,663 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 17: mean MSE: 327.346405, total Duration: 282s
+2019-02-24 18:41:19,051 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [144.52359], Duration: 0s
+2019-02-24 18:41:23,820 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [413.24957], Duration: 0s
+2019-02-24 18:41:28,789 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [203.00996], Duration: 0s
+2019-02-24 18:41:32,952 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [385.84497], Duration: 0s
+2019-02-24 18:41:37,601 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [308.2647], Duration: 0s
+2019-02-24 18:41:42,292 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [42.452377], Duration: 0s
+2019-02-24 18:41:46,769 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [311.9248], Duration: 0s
+2019-02-24 18:41:50,849 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [276.57272], Duration: 0s
+2019-02-24 18:41:55,517 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [193.89305], Duration: 0s
+2019-02-24 18:42:00,007 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [239.68813], Duration: 0s
+2019-02-24 18:42:04,533 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [288.3828], Duration: 0s
+2019-02-24 18:42:08,446 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [177.59584], Duration: 0s
+2019-02-24 18:42:13,150 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [353.79404], Duration: 0s
+2019-02-24 18:42:17,738 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [120.14446], Duration: 0s
+2019-02-24 18:42:22,230 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [485.67297], Duration: 0s
+2019-02-24 18:42:26,398 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [195.76466], Duration: 0s
+2019-02-24 18:42:30,488 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 287.73553466796875, total Duration: 71s
+2019-02-24 18:42:37,999 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 0: Batch MSE= 146.127365, Duration= 0s
+2019-02-24 18:42:43,766 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 10: Batch MSE= 438.878143, Duration= 0s
+2019-02-24 18:42:49,688 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 20: Batch MSE= 223.273911, Duration= 0s
+2019-02-24 18:42:55,638 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 30: Batch MSE= 252.698578, Duration= 0s
+2019-02-24 18:43:01,478 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 40: Batch MSE= 274.203918, Duration= 0s
+2019-02-24 18:43:07,361 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 50: Batch MSE= 186.843094, Duration= 0s
+2019-02-24 18:43:13,192 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 60: Batch MSE= 330.562927, Duration= 0s
+2019-02-24 18:43:19,174 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 70: Batch MSE= 137.074417, Duration= 0s
+2019-02-24 18:43:25,232 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 80: Batch MSE= 291.171265, Duration= 0s
+2019-02-24 18:43:31,288 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 90: Batch MSE= 279.804871, Duration= 0s
+2019-02-24 18:43:37,158 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 100: Batch MSE= 195.149918, Duration= 0s
+2019-02-24 18:43:42,714 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 110: Batch MSE= 295.369873, Duration= 0s
+2019-02-24 18:43:48,532 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 120: Batch MSE= 299.540344, Duration= 0s
+2019-02-24 18:43:54,273 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 130: Batch MSE= 338.175659, Duration= 0s
+2019-02-24 18:44:00,122 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 140: Batch MSE= 464.117310, Duration= 0s
+2019-02-24 18:44:05,959 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 150: Batch MSE= 385.457062, Duration= 0s
+2019-02-24 18:44:11,853 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 160: Batch MSE= 208.142319, Duration= 0s
+2019-02-24 18:44:17,562 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 170: Batch MSE= 188.882675, Duration= 0s
+2019-02-24 18:44:23,447 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 180: Batch MSE= 306.349548, Duration= 0s
+2019-02-24 18:44:29,367 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 190: Batch MSE= 151.718384, Duration= 0s
+2019-02-24 18:44:35,418 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 200: Batch MSE= 298.035370, Duration= 0s
+2019-02-24 18:44:41,310 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 210: Batch MSE= 434.664398, Duration= 0s
+2019-02-24 18:44:47,154 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 220: Batch MSE= 313.246338, Duration= 0s
+2019-02-24 18:44:52,836 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 230: Batch MSE= 550.440002, Duration= 0s
+2019-02-24 18:44:58,759 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 240: Batch MSE= 643.238770, Duration= 0s
+2019-02-24 18:45:04,567 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 250: Batch MSE= 245.760864, Duration= 0s
+2019-02-24 18:45:10,551 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 260: Batch MSE= 370.465485, Duration= 0s
+2019-02-24 18:45:16,277 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 270: Batch MSE= 566.139832, Duration= 0s
+2019-02-24 18:45:22,359 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 280: Batch MSE= 301.291656, Duration= 0s
+2019-02-24 18:45:28,222 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 290: Batch MSE= 290.123016, Duration= 0s
+2019-02-24 18:45:34,127 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 300: Batch MSE= 387.702759, Duration= 0s
+2019-02-24 18:45:39,958 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 310: Batch MSE= 231.402435, Duration= 0s
+2019-02-24 18:45:46,141 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 320: Batch MSE= 296.901855, Duration= 0s
+2019-02-24 18:45:52,037 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 330: Batch MSE= 318.599579, Duration= 0s
+2019-02-24 18:45:58,043 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 340: Batch MSE= 361.081909, Duration= 0s
+2019-02-24 18:46:03,993 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 350: Batch MSE= 651.460327, Duration= 0s
+2019-02-24 18:46:10,031 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 360: Batch MSE= 272.679382, Duration= 0s
+2019-02-24 18:46:15,850 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 370: Batch MSE= 177.444427, Duration= 0s
+2019-02-24 18:46:21,995 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 380: Batch MSE= 456.897766, Duration= 0s
+2019-02-24 18:46:27,975 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 390: Batch MSE= 407.121887, Duration= 0s
+2019-02-24 18:46:33,286 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 400: Batch MSE= 325.813293, Duration= 0s
+2019-02-24 18:46:39,043 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 410: Batch MSE= 97.596191, Duration= 0s
+2019-02-24 18:46:44,587 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 420: Batch MSE= 140.254456, Duration= 0s
+2019-02-24 18:46:50,749 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 430: Batch MSE= 329.229095, Duration= 0s
+2019-02-24 18:46:56,879 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 440: Batch MSE= 322.554321, Duration= 0s
+2019-02-24 18:47:02,707 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 450: Batch MSE= 575.282288, Duration= 0s
+2019-02-24 18:47:08,649 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 460: Batch MSE= 238.399933, Duration= 0s
+2019-02-24 18:47:14,363 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 18, Iter 470: Batch MSE= 279.914795, Duration= 0s
+2019-02-24 18:47:19,601 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 18: mean MSE: 315.252686, total Duration: 282s
+2019-02-24 18:47:19,981 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [110.285934], Duration: 0s
+2019-02-24 18:47:24,414 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [511.51367], Duration: 0s
+2019-02-24 18:47:28,430 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [357.8755], Duration: 0s
+2019-02-24 18:47:32,931 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [116.31637], Duration: 0s
+2019-02-24 18:47:37,708 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [293.0174], Duration: 0s
+2019-02-24 18:47:42,170 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [299.7329], Duration: 0s
+2019-02-24 18:47:46,506 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [175.981], Duration: 0s
+2019-02-24 18:47:51,245 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [122.6982], Duration: 0s
+2019-02-24 18:47:55,939 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [450.1558], Duration: 0s
+2019-02-24 18:48:00,664 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [380.30457], Duration: 0s
+2019-02-24 18:48:04,711 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [58.158443], Duration: 0s
+2019-02-24 18:48:09,286 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [313.59448], Duration: 0s
+2019-02-24 18:48:13,864 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [132.11945], Duration: 0s
+2019-02-24 18:48:18,555 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [214.69958], Duration: 0s
+2019-02-24 18:48:22,518 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [456.78665], Duration: 0s
+2019-02-24 18:48:26,990 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [29.285387], Duration: 0s
+2019-02-24 18:48:31,013 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 278.80767822265625, total Duration: 71s
+2019-02-24 18:48:37,917 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 0: Batch MSE= 340.690979, Duration= 0s
+2019-02-24 18:48:43,988 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 10: Batch MSE= 180.100098, Duration= 0s
+2019-02-24 18:48:49,763 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 20: Batch MSE= 265.200012, Duration= 0s
+2019-02-24 18:48:55,792 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 30: Batch MSE= 333.513885, Duration= 0s
+2019-02-24 18:49:01,889 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 40: Batch MSE= 250.607712, Duration= 0s
+2019-02-24 18:49:07,737 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 50: Batch MSE= 347.567688, Duration= 0s
+2019-02-24 18:49:13,270 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 60: Batch MSE= 167.293533, Duration= 0s
+2019-02-24 18:49:19,088 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 70: Batch MSE= 459.815216, Duration= 0s
+2019-02-24 18:49:25,057 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 80: Batch MSE= 177.247406, Duration= 0s
+2019-02-24 18:49:30,867 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 90: Batch MSE= 241.220093, Duration= 0s
+2019-02-24 18:49:36,831 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 100: Batch MSE= 211.015900, Duration= 0s
+2019-02-24 18:49:42,359 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 110: Batch MSE= 278.987488, Duration= 0s
+2019-02-24 18:49:47,547 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 120: Batch MSE= 421.080627, Duration= 0s
+2019-02-24 18:49:53,046 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 130: Batch MSE= 440.749298, Duration= 0s
+2019-02-24 18:49:58,291 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 140: Batch MSE= 368.818665, Duration= 0s
+2019-02-24 18:50:03,458 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 150: Batch MSE= 162.883133, Duration= 0s
+2019-02-24 18:50:08,723 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 160: Batch MSE= 404.404266, Duration= 0s
+2019-02-24 18:50:13,951 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 170: Batch MSE= 225.925171, Duration= 0s
+2019-02-24 18:50:19,314 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 180: Batch MSE= 309.745636, Duration= 0s
+2019-02-24 18:50:24,643 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 190: Batch MSE= 172.012817, Duration= 0s
+2019-02-24 18:50:30,049 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 200: Batch MSE= 296.401581, Duration= 0s
+2019-02-24 18:50:35,455 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 210: Batch MSE= 112.611076, Duration= 0s
+2019-02-24 18:50:40,610 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 220: Batch MSE= 243.459808, Duration= 0s
+2019-02-24 18:50:45,823 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 230: Batch MSE= 243.634140, Duration= 0s
+2019-02-24 18:50:51,108 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 240: Batch MSE= 213.217728, Duration= 0s
+2019-02-24 18:50:56,448 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 250: Batch MSE= 168.741135, Duration= 0s
+2019-02-24 18:51:01,613 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 260: Batch MSE= 468.305450, Duration= 0s
+2019-02-24 18:51:07,255 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 270: Batch MSE= 350.957642, Duration= 0s
+2019-02-24 18:51:12,820 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 280: Batch MSE= 319.168335, Duration= 0s
+2019-02-24 18:51:18,241 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 290: Batch MSE= 236.292114, Duration= 0s
+2019-02-24 18:51:23,500 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 300: Batch MSE= 294.635101, Duration= 0s
+2019-02-24 18:51:28,796 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 310: Batch MSE= 392.144714, Duration= 0s
+2019-02-24 18:51:33,967 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 320: Batch MSE= 176.190475, Duration= 0s
+2019-02-24 18:51:39,217 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 330: Batch MSE= 337.907135, Duration= 0s
+2019-02-24 18:51:44,467 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 340: Batch MSE= 295.542084, Duration= 0s
+2019-02-24 18:51:50,080 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 350: Batch MSE= 271.345093, Duration= 0s
+2019-02-24 18:51:55,382 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 360: Batch MSE= 160.468399, Duration= 0s
+2019-02-24 18:52:00,604 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 370: Batch MSE= 242.155838, Duration= 0s
+2019-02-24 18:52:05,930 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 380: Batch MSE= 136.337540, Duration= 0s
+2019-02-24 18:52:11,051 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 390: Batch MSE= 245.649902, Duration= 0s
+2019-02-24 18:52:16,345 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 400: Batch MSE= 348.630859, Duration= 0s
+2019-02-24 18:52:21,733 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 410: Batch MSE= 220.090515, Duration= 0s
+2019-02-24 18:52:27,271 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 420: Batch MSE= 250.377304, Duration= 0s
+2019-02-24 18:52:32,479 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 430: Batch MSE= 243.191696, Duration= 0s
+2019-02-24 18:52:37,816 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 440: Batch MSE= 411.995483, Duration= 0s
+2019-02-24 18:52:43,120 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 450: Batch MSE= 180.397949, Duration= 0s
+2019-02-24 18:52:48,475 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 460: Batch MSE= 227.017090, Duration= 0s
+2019-02-24 18:52:53,809 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 19, Iter 470: Batch MSE= 582.351807, Duration= 0s
+2019-02-24 18:52:58,255 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 19: mean MSE: 306.715851, total Duration: 260s
+2019-02-24 18:52:58,699 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [273.9895], Duration: 0s
+2019-02-24 18:53:02,774 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [255.66183], Duration: 0s
+2019-02-24 18:53:06,950 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [202.3284], Duration: 0s
+2019-02-24 18:53:11,065 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [156.21048], Duration: 0s
+2019-02-24 18:53:15,359 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [151.21672], Duration: 0s
+2019-02-24 18:53:19,515 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [200.91982], Duration: 0s
+2019-02-24 18:53:23,723 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [107.93664], Duration: 0s
+2019-02-24 18:53:27,902 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [239.044], Duration: 0s
+2019-02-24 18:53:32,001 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [230.6172], Duration: 0s
+2019-02-24 18:53:35,870 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [169.23398], Duration: 0s
+2019-02-24 18:53:40,121 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [193.8338], Duration: 0s
+2019-02-24 18:53:44,186 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [423.1154], Duration: 0s
+2019-02-24 18:53:48,533 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [234.15771], Duration: 0s
+2019-02-24 18:53:52,623 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [338.64883], Duration: 0s
+2019-02-24 18:53:56,786 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [352.78775], Duration: 0s
+2019-02-24 18:54:00,848 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [452.76468], Duration: 0s
+2019-02-24 18:54:04,323 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 272.64208984375, total Duration: 66s
+2019-02-24 18:54:12,296 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 0: Batch MSE= 229.351318, Duration= 0s
+2019-02-24 18:54:17,947 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 10: Batch MSE= 349.434326, Duration= 0s
+2019-02-24 18:54:23,189 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 20: Batch MSE= 326.889221, Duration= 0s
+2019-02-24 18:54:28,553 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 30: Batch MSE= 393.283722, Duration= 0s
+2019-02-24 18:54:33,905 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 40: Batch MSE= 288.572357, Duration= 0s
+2019-02-24 18:54:39,135 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 50: Batch MSE= 547.391846, Duration= 0s
+2019-02-24 18:54:44,306 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 60: Batch MSE= 292.875549, Duration= 0s
+2019-02-24 18:54:49,632 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 70: Batch MSE= 287.127106, Duration= 0s
+2019-02-24 18:54:55,039 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 80: Batch MSE= 188.703781, Duration= 0s
+2019-02-24 18:55:00,665 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 90: Batch MSE= 446.758514, Duration= 0s
+2019-02-24 18:55:05,948 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 100: Batch MSE= 215.854462, Duration= 0s
+2019-02-24 18:55:11,127 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 110: Batch MSE= 387.414673, Duration= 0s
+2019-02-24 18:55:16,386 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 120: Batch MSE= 602.736206, Duration= 0s
+2019-02-24 18:55:21,576 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 130: Batch MSE= 282.701691, Duration= 0s
+2019-02-24 18:55:26,843 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 140: Batch MSE= 214.776550, Duration= 0s
+2019-02-24 18:55:32,106 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 150: Batch MSE= 313.064209, Duration= 0s
+2019-02-24 18:55:37,400 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 160: Batch MSE= 300.703735, Duration= 0s
+2019-02-24 18:55:43,046 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 170: Batch MSE= 198.750168, Duration= 0s
+2019-02-24 18:55:48,246 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 180: Batch MSE= 449.707733, Duration= 0s
+2019-02-24 18:55:53,569 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 190: Batch MSE= 489.465851, Duration= 0s
+2019-02-24 18:55:59,003 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 200: Batch MSE= 269.873230, Duration= 0s
+2019-02-24 18:56:04,256 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 210: Batch MSE= 366.036743, Duration= 0s
+2019-02-24 18:56:09,516 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 220: Batch MSE= 482.023102, Duration= 0s
+2019-02-24 18:56:14,781 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 230: Batch MSE= 262.229919, Duration= 0s
+2019-02-24 18:56:20,077 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 240: Batch MSE= 111.208664, Duration= 0s
+2019-02-24 18:56:25,601 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 250: Batch MSE= 224.423233, Duration= 0s
+2019-02-24 18:56:30,938 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 260: Batch MSE= 376.677185, Duration= 0s
+2019-02-24 18:56:36,355 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 270: Batch MSE= 493.622162, Duration= 0s
+2019-02-24 18:56:41,817 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 280: Batch MSE= 345.300903, Duration= 0s
+2019-02-24 18:56:47,119 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 290: Batch MSE= 148.281372, Duration= 0s
+2019-02-24 18:56:52,436 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 300: Batch MSE= 238.010025, Duration= 0s
+2019-02-24 18:56:57,657 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 310: Batch MSE= 201.543396, Duration= 0s
+2019-02-24 18:57:03,314 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 320: Batch MSE= 212.688797, Duration= 0s
+2019-02-24 18:57:08,642 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 330: Batch MSE= 82.284340, Duration= 0s
+2019-02-24 18:57:13,968 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 340: Batch MSE= 224.537476, Duration= 0s
+2019-02-24 18:57:19,376 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 350: Batch MSE= 199.949890, Duration= 0s
+2019-02-24 18:57:24,749 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 360: Batch MSE= 520.257446, Duration= 0s
+2019-02-24 18:57:30,024 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 370: Batch MSE= 245.026886, Duration= 0s
+2019-02-24 18:57:35,478 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 380: Batch MSE= 86.566742, Duration= 0s
+2019-02-24 18:57:41,042 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 390: Batch MSE= 307.043945, Duration= 0s
+2019-02-24 18:57:46,361 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 400: Batch MSE= 697.895264, Duration= 0s
+2019-02-24 18:57:51,788 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 410: Batch MSE= 188.088547, Duration= 0s
+2019-02-24 18:57:57,014 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 420: Batch MSE= 411.212494, Duration= 0s
+2019-02-24 18:58:02,293 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 430: Batch MSE= 97.360992, Duration= 0s
+2019-02-24 18:58:07,521 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 440: Batch MSE= 503.099670, Duration= 0s
+2019-02-24 18:58:12,843 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 450: Batch MSE= 76.804977, Duration= 0s
+2019-02-24 18:58:18,363 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 460: Batch MSE= 230.634476, Duration= 0s
+2019-02-24 18:58:23,940 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:93] - INFO: 	Epoch 20, Iter 470: Batch MSE= 309.823578, Duration= 0s
+2019-02-24 18:58:28,091 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:98] - INFO: Epoch 20: mean MSE: 299.746216, total Duration: 256s
+2019-02-24 18:58:28,619 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 0: MSE: [339.7485], Duration: 0s
+2019-02-24 18:58:32,637 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 10: MSE: [245.92514], Duration: 0s
+2019-02-24 18:58:36,661 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 20: MSE: [591.3155], Duration: 0s
+2019-02-24 18:58:40,814 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 30: MSE: [244.15613], Duration: 0s
+2019-02-24 18:58:44,790 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 40: MSE: [81.70674], Duration: 0s
+2019-02-24 18:58:48,973 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 50: MSE: [437.692], Duration: 0s
+2019-02-24 18:58:53,339 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 60: MSE: [300.31836], Duration: 0s
+2019-02-24 18:58:57,598 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 70: MSE: [147.62733], Duration: 0s
+2019-02-24 18:59:01,638 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 80: MSE: [69.091], Duration: 0s
+2019-02-24 18:59:05,982 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 90: MSE: [411.3188], Duration: 0s
+2019-02-24 18:59:09,973 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 100: MSE: [223.4128], Duration: 0s
+2019-02-24 18:59:13,938 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 110: MSE: [452.95483], Duration: 0s
+2019-02-24 18:59:18,146 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 120: MSE: [351.7077], Duration: 0s
+2019-02-24 18:59:22,186 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 130: MSE: [274.69034], Duration: 0s
+2019-02-24 18:59:26,340 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 140: MSE: [437.29477], Duration: 0s
+2019-02-24 18:59:30,345 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:108] - INFO: 	Validation Iter 150: MSE: [112.643936], Duration: 0s
+2019-02-24 18:59:33,962 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:113] - INFO: Validation mean MSE: 265.8023681640625, total Duration: 65s
+2019-02-24 19:21:32,283 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:136] - INFO: Test mean MSE: 236.87948608398438, Test mean PCC: nan, Test mean MAE: 3.7495741844177246, total Duration: 92s
+2019-02-24 19:24:31,526 - E:\hx\traffic-demand-prediction\baselines\RNNs.py[line:136] - INFO: Test mean MSE: 236.8794708251953, Test mean PCC: 0.9510258436203003, Test mean MAE: 3.7495741844177246, total Duration: 71s

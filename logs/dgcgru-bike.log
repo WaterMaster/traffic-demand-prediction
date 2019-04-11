@@ -1,0 +1,2 @@
+2019-01-26 11:17:26,337 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 0: Batch MSE= 25.639383, Duration= 3s
+2019-01-26 11:18:20,781 - E:\hx\traffic-demand-prediction\models\dgcgru.py[line:101] - INFO: 	Epoch 1, Iter 10: Batch MSE= 22.386189, Duration= 1s
